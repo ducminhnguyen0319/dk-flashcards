@@ -4,12 +4,14 @@
   "description": "Flashcard app for Danish citizenship test (indfødsretsprøven)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "migrate": "node scripts/migrate.js"
   },
   "engines": {
     "node": ">=18"
   },
   "dependencies": {
+    "better-sqlite3": "^11.7.0",
     "express": "^4.21.0"
   }
 }
