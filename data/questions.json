@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår begyndte vikingetiden i Danmark?",
+    "answer": "Ca. 750 e.Kr. (thời kỳ Viking bắt đầu khoảng năm 750)"
+  },
+  {
+    "id": 2,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår sluttede vikingetiden?",
+    "answer": "Ca. 1050 e.Kr. (kết thúc khoảng năm 1050)"
+  },
+  {
+    "id": 3,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem samlede Danmark til ét rige omkring 965?",
+    "answer": "Harald Blåtand (Harald Răng Xanh, thống nhất Đan Mạch khoảng năm 965)"
+  },
+  {
+    "id": 4,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Jellingstenene?",
+    "answer": "To runesten i Jelling – den store sten blev rejst af Harald Blåtand og kaldes 'Danmarks dåbsattest' (hai tảng đá Rune ở Jelling, được gọi là 'giấy khai sinh của Đan Mạch')"
+  },
+  {
+    "id": 5,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var vikingernes primære aktiviteter?",
+    "answer": "Handel, plyndring og kolonisering af nye områder (buôn bán, cướp bóc và thuộc địa hóa các vùng mới)"
+  },
+  {
+    "id": 6,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilken religion indførte Harald Blåtand i Danmark?",
+    "answer": "Kristendommen (đạo Cơ Đốc) – han kristnede danerne ca. 965"
+  },
+  {
+    "id": 7,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var middelalderen i dansk historie?",
+    "answer": "Perioden ca. 1050-1500 (thời Trung cổ, từ khoảng 1050 đến 1500)"
+  },
+  {
+    "id": 8,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Jyske Lov, og hvornår blev den vedtaget?",
+    "answer": "En af de ældste danske lovsamlinger, vedtaget i 1241 under Valdemar Sejr (một trong những bộ luật cổ nhất của Đan Mạch, năm 1241)"
+  },
+  {
+    "id": 9,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er det berømte citat fra Jyske Lovs fortale?",
+    "answer": "'Med lov skal land bygges' (Lấy luật pháp mà xây dựng đất nước)"
+  },
+  {
+    "id": 10,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Kalmarunionen?",
+    "answer": "En union mellem Danmark, Norge og Sverige oprettet i 1397 (liên minh giữa Đan Mạch, Na Uy và Thụy Điển, năm 1397)"
+  },
+  {
+    "id": 11,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem grundlagde Kalmarunionen?",
+    "answer": "Dronning Margrete 1. (Nữ hoàng Margrete Đệ Nhất)"
+  },
+  {
+    "id": 12,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår ophørte Kalmarunionen?",
+    "answer": "I 1523, da Sverige forlod unionen (năm 1523, khi Thụy Điển rời liên minh)"
+  },
+  {
+    "id": 13,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete der ved Reformationen i Danmark i 1536?",
+    "answer": "Danmark blev protestantisk (lutheransk) under Christian 3. – den katolske kirkes magt blev brudt (Đan Mạch trở thành nước theo đạo Tin Lành dưới thời Christian III)"
+  },
+  {
+    "id": 14,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilken konge gennemførte Reformationen i 1536?",
+    "answer": "Christian 3. (Christian Đệ Tam)"
+  },
+  {
+    "id": 15,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var Christian 4., og hvornår regerede han?",
+    "answer": "En af Danmarks mest kendte konger, regerede 1588-1648 (một trong những vị vua nổi tiếng nhất, trị vì 1588-1648)"
+  },
+  {
+    "id": 16,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilke kendte bygninger opførte Christian 4.?",
+    "answer": "Frederiksborg Slot, Rosenborg Slot og Rundetårn (các lâu đài và tháp nổi tiếng ở Copenhagen)"
+  },
+  {
+    "id": 17,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Rundetårn i København?",
+    "answer": "Et observatorium bygget af Christian 4. i 1642 (đài quan sát thiên văn do Christian IV xây năm 1642)"
+  },
+  {
+    "id": 18,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Roskilde-freden i 1658?",
+    "answer": "En fredsaftale hvor Danmark måtte afgive Skåne, Halland og Blekinge til Sverige (hòa ước mất Skåne, Halland và Blekinge cho Thụy Điển)"
+  },
+  {
+    "id": 19,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilke områder mistede Danmark ved Roskilde-freden?",
+    "answer": "Skåne, Halland og Blekinge (tre tỉnh ở miền nam Thụy Điển ngày nay)"
+  },
+  {
+    "id": 20,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var enevælden?",
+    "answer": "Et politisk system hvor kongen havde absolut magt – indført i Danmark 1660-61 (chế độ quân chủ chuyên chế, vua có quyền lực tuyệt đối)"
+  },
+  {
+    "id": 21,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilken konge indførte enevælden i Danmark?",
+    "answer": "Frederik 3. i 1660-61 (Frederik Đệ Tam)"
+  },
+  {
+    "id": 22,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Kongeloven, og hvornår blev den vedtaget?",
+    "answer": "Danmarks enevældige forfatning, vedtaget i 1665 – den gav kongen uindskrænket magt (hiến pháp chuyên chế năm 1665)"
+  },
+  {
+    "id": 23,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var stavnsbåndet?",
+    "answer": "En lov fra 1733 der bandt bønderne til godset – de måtte ikke flytte frit (luật ràng buộc nông dân với đất đai, năm 1733)"
+  },
+  {
+    "id": 24,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev stavnsbåndet ophævet?",
+    "answer": "I 1788 (năm 1788, nông dân được tự do di chuyển)"
+  },
+  {
+    "id": 25,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Danske Lov?",
+    "answer": "En samlet lovbog for hele Danmark, vedtaget i 1683 under Christian 5. (bộ luật thống nhất cho toàn Đan Mạch, năm 1683)"
+  },
+  {
+    "id": 26,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betød oplysningstiden for Danmark?",
+    "answer": "En periode med fokus på fornuft, videnskab og individets rettigheder (1700-tallet) – førte til reformer og afskaffelse af stavnsbåndet"
+  },
+  {
+    "id": 27,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår mistede Danmark Norge?",
+    "answer": "I 1814, ved Kielerfreden efter Napoleonskrigene (năm 1814, sau chiến tranh Napoleon)"
+  },
+  {
+    "id": 28,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik Danmark sin første grundlov?",
+    "answer": "Den 5. juni 1849 (ngày 5 tháng 6 năm 1849)"
+  },
+  {
+    "id": 29,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilken konge underskrev den første grundlov?",
+    "answer": "Frederik 7. (Frederik Đệ Thất)"
+  },
+  {
+    "id": 30,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betød Grundloven af 1849 for Danmark?",
+    "answer": "Enevælden blev afskaffet og erstattet af et konstitutionelt monarki med folkestyre (chế độ chuyên chế bị bãi bỏ, thay bằng quân chủ lập hiến)"
+  },
+  {
+    "id": 31,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fandt den 1. Slesvigske Krig sted?",
+    "answer": "1848-1850 (cuộc chiến Schleswig lần thứ nhất)"
+  },
+  {
+    "id": 32,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fandt den 2. Slesvigske Krig sted?",
+    "answer": "1864 (cuộc chiến Schleswig lần thứ hai)"
+  },
+  {
+    "id": 33,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete der ved Dybbøl i 1864?",
+    "answer": "Et stort slag hvor Danmark tabte til Preussen og Østrig – Danmark mistede Slesvig, Holsten og Lauenborg (trận chiến lớn, Đan Mạch thua Phổ và Áo)"
+  },
+  {
+    "id": 34,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvilke områder mistede Danmark efter nederlaget i 1864?",
+    "answer": "Slesvig, Holsten og Lauenborg (ba vùng ở phía nam)"
+  },
+  {
+    "id": 35,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Septemberforliget i 1899?",
+    "answer": "En aftale mellem arbejdsgivere og fagforeninger – grundlaget for Den Danske Model (thỏa thuận giữa giới chủ và công đoàn, nền tảng cho Mô hình Đan Mạch)"
+  },
+  {
+    "id": 36,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvorfor kaldes Septemberforliget 'Arbejdsmarkedets Grundlov'?",
+    "answer": "Fordi den fastsatte de grundlæggende regler for forholdet mellem arbejdsgivere og lønmodtagere (vì nó đặt ra các quy tắc cơ bản cho quan hệ lao động)"
+  },
+  {
+    "id": 37,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var systemskiftet i 1901?",
+    "answer": "Indførelse af parlamentarisme – regeringen skal have flertal i Folketinget (đưa vào chế độ nghị viện – chính phủ cần đa số trong Quốc hội)"
+  },
+  {
+    "id": 38,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betyder parlamentarisme?",
+    "answer": "At en regering ikke kan regere, hvis et flertal i Folketinget er imod den (chính phủ không thể cầm quyền nếu đa số Quốc hội phản đối)"
+  },
+  {
+    "id": 39,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik kvinder valgret i Danmark?",
+    "answer": "I 1915 (năm 1915, phụ nữ được quyền bầu cử)"
+  },
+  {
+    "id": 40,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik tjenestefolk og tyende valgret?",
+    "answer": "I 1915, sammen med kvinderne (năm 1915, cùng lúc với phụ nữ)"
+  },
+  {
+    "id": 41,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete ved Genforeningen i 1920?",
+    "answer": "Nordslesvig (Sønderjylland) blev genforenet med Danmark efter en folkeafstemning (Bắc Schleswig được sáp nhập lại vào Đan Mạch sau trưng cầu dân ý)"
+  },
+  {
+    "id": 42,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Påskekrisen i 1920?",
+    "answer": "En politisk krise hvor Christian 10. afskedigede regeringen – det var i strid med parlamentarismen (khủng hoảng chính trị khi vua sa thải chính phủ, vi phạm nguyên tắc nghị viện)"
+  },
+  {
+    "id": 43,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Danmark industrialiseret for alvor?",
+    "answer": "I perioden 1864-1914 (giai đoạn công nghiệp hóa mạnh mẽ)"
+  },
+  {
+    "id": 44,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var andelsbevægelsen?",
+    "answer": "En kooperativ bevægelse blandt landmænd i slutningen af 1800-tallet – de oprettede andelsmejerier og -slagterier (phong trào hợp tác xã của nông dân cuối thế kỷ 19)"
+  },
+  {
+    "id": 45,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var N.F.S. Grundtvig?",
+    "answer": "Præst, digter og politiker – grundlægger af folkehøjskolerne og central figur i dansk kulturliv (mục sư, nhà thơ, chính trị gia – sáng lập trường cao đẳng nhân dân)"
+  },
+  {
+    "id": 46,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var folkehøjskolerne?",
+    "answer": "Skoler for voksne med fokus på almen dannelse – grundlagt af Grundtvig (trường dành cho người lớn, tập trung vào giáo dục phổ thông)"
+  },
+  {
+    "id": 47,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Deltog Danmark i 1. Verdenskrig (1914-1918)?",
+    "answer": "Nej, Danmark var neutralt under 1. Verdenskrig (không, Đan Mạch trung lập trong Thế chiến I)"
+  },
+  {
+    "id": 48,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Kanslergadeforliget i 1933?",
+    "answer": "Et politisk forlig under statsminister Stauning – sikrede sociale reformer og hjælp til landbruget under den økonomiske krise (thỏa thuận chính trị dưới thời Thủ tướng Stauning, cải cách xã hội trong khủng hoảng kinh tế)"
+  },
+  {
+    "id": 49,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var Thorvald Stauning?",
+    "answer": "Socialdemokratisk statsminister 1924-26 og 1929-42 – stod bag Kanslergadeforliget (Thủ tướng Dân chủ Xã hội, đứng sau Thỏa thuận Kanslergade)"
+  },
+  {
+    "id": 50,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Danmark besat af Tyskland under 2. Verdenskrig?",
+    "answer": "Den 9. april 1940 (ngày 9 tháng 4 năm 1940)"
+  },
+  {
+    "id": 51,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Danmark befriet?",
+    "answer": "Den 5. maj 1945 (ngày 5 tháng 5 năm 1945)"
+  },
+  {
+    "id": 52,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete i oktober 1943 under besættelsen?",
+    "answer": "De danske jøder blev reddet – de fleste blev sejlet til Sverige af modstandsbevægelsen og danske fiskere (người Do Thái Đan Mạch được cứu bằng cách đưa sang Thụy Điển)"
+  },
+  {
+    "id": 53,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvor mange danske jøder blev reddet i oktober 1943?",
+    "answer": "Ca. 7.000 jøder blev sejlet til Sverige (khoảng 7.000 người Do Thái được đưa sang Thụy Điển)"
+  },
+  {
+    "id": 54,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var den danske modstandsbevægelse?",
+    "answer": "En gruppe danskere der kæmpede imod den tyske besættelse med sabotage og illegalt arbejde (phong trào kháng chiến chống Đức chiếm đóng)"
+  },
+  {
+    "id": 55,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var samarbejdspolitikken under besættelsen?",
+    "answer": "Den danske regerings politik om at samarbejde med besættelsesmagten for at beskytte befolkningen (chính sách hợp tác với quân chiếm đóng để bảo vệ dân)"
+  },
+  {
+    "id": 56,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår brød samarbejdspolitikken sammen?",
+    "answer": "Den 29. august 1943 – regeringen trådte tilbage (ngày 29/8/1943, chính phủ từ chức)"
+  },
+  {
+    "id": 57,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Danmark medlem af NATO?",
+    "answer": "I 1949 (năm 1949)"
+  },
+  {
+    "id": 58,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad står NATO for?",
+    "answer": "North Atlantic Treaty Organization – en forsvarsalliance (Tổ chức Hiệp ước Bắc Đại Tây Dương – liên minh quốc phòng)"
+  },
+  {
+    "id": 59,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik Danmark en ny grundlov i efterkrigstiden?",
+    "answer": "I 1953 (năm 1953, hiến pháp mới)"
+  },
+  {
+    "id": 60,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var de vigtigste ændringer i Grundloven af 1953?",
+    "answer": "Landstinget blev afskaffet (ét kammer), kvindelig tronfølge blev indført, valgretsalderen blev sænket (bỏ Thượng viện, cho phép nữ kế vị, hạ tuổi bầu cử)"
+  },
+  {
+    "id": 61,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var folkepensionen, og hvornår blev den indført?",
+    "answer": "En universel pension til alle ældre, indført i 1956 (lương hưu phổ cập cho tất cả người cao tuổi, năm 1956)"
+  },
+  {
+    "id": 62,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad menes med 'De glade 60'ere'?",
+    "answer": "1960'erne var præget af økonomisk vækst, fuld beskæftigelse og opbygning af velfærdsstaten (thập niên 60 – tăng trưởng kinh tế, việc làm đầy đủ, xây dựng nhà nước phúc lợi)"
+  },
+  {
+    "id": 63,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Danmark medlem af EF (nu EU)?",
+    "answer": "I 1973 (năm 1973, gia nhập Cộng đồng Châu Âu)"
+  },
+  {
+    "id": 64,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Jordskredsvalget i 1973?",
+    "answer": "Et folketingsvalg hvor mange nye partier kom i Folketinget – antallet af partier steg markant (cuộc bầu cử 'động đất' – nhiều đảng mới vào Quốc hội)"
+  },
+  {
+    "id": 65,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var oliekrisen i 1973?",
+    "answer": "OPEC hævede oliepriserne dramatisk – det førte til økonomisk krise i Danmark og resten af Vesten (khủng hoảng dầu mỏ, OPEC tăng giá dầu mạnh)"
+  },
+  {
+    "id": 66,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad stemte danskerne om Maastricht-traktaten i 1992?",
+    "answer": "Danskerne stemte NEJ til Maastricht-traktaten (người Đan Mạch bỏ phiếu KHÔNG cho hiệp ước Maastricht)"
+  },
+  {
+    "id": 67,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Edinburgh-aftalen i 1993?",
+    "answer": "En aftale der gav Danmark 4 forbehold til EU-samarbejdet – derefter stemte danskerne JA (thỏa thuận cho Đan Mạch 4 điều khoản bảo lưu EU, sau đó dân bỏ phiếu đồng ý)"
+  },
+  {
+    "id": 68,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Danmarks fire EU-forbehold?",
+    "answer": "Forsvar, euroen, unionsborgerskab og retlige/indre anliggender (quốc phòng, đồng euro, quyền công dân EU, và tư pháp/nội vụ) – forsvarsforbeholdet blev afskaffet i 2022"
+  },
+  {
+    "id": 69,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete med Muhammed-tegningerne i 2005?",
+    "answer": "Jyllands-Posten trykte tegninger af profeten Muhammed – det udløste en international krise med protester i muslimske lande (báo đăng tranh biếm họa, gây khủng hoảng quốc tế)"
+  },
+  {
+    "id": 70,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete den 14.-15. februar 2015 i København?",
+    "answer": "Et terrorangreb mod et debatarrangement på Krudttønden og den jødiske synagoge (vụ tấn công khủng bố ở Copenhagen)"
+  },
+  {
+    "id": 71,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete i Danmark under Covid-19 pandemien?",
+    "answer": "Danmark lukkede ned i 2020-22 – skoler, grænser og virksomheder lukkede, vaccinationsprogram blev gennemført (đóng cửa đất nước 2020-22, tiêm chủng)"
+  },
+  {
+    "id": 72,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem blev konge af Danmark i 2024?",
+    "answer": "Frederik 10. (Frederik Đệ Thập, lên ngôi năm 2024)"
+  },
+  {
+    "id": 73,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem abdikerede i 2024?",
+    "answer": "Dronning Margrethe 2. – hun abdikerede den 14. januar 2024 (Nữ hoàng Margrethe II thoái vị)"
+  },
+  {
+    "id": 74,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "I hvilken by ligger Jellingsten?",
+    "answer": "I Jelling i Jylland (ở Jelling, bán đảo Jutland)"
+  },
+  {
+    "id": 75,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var vikingetogterne?",
+    "answer": "Vikingernes sørejser til plyndring, handel og bosætning i bl.a. England, Frankrig og Island (các chuyến viễn chinh Viking đến Anh, Pháp, Iceland v.v.)"
+  },
+  {
+    "id": 76,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var Knud den Store?",
+    "answer": "En dansk vikingkonge der regerede over Danmark, England og Norge i begyndelsen af 1000-tallet (vua Viking cai trị cả Đan Mạch, Anh và Na Uy)"
+  },
+  {
+    "id": 77,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var den Sorte Død?",
+    "answer": "En pestepidemi der ramte Europa og Danmark i 1349-50 – op mod en tredjedel af befolkningen døde (đại dịch hạch, giết 1/3 dân số)"
+  },
+  {
+    "id": 78,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Valdemar Atterdags rolle i dansk historie?",
+    "answer": "Han genopbyggede det danske rige i 1300-tallet efter en periode med opløsning (tái thiết vương quốc Đan Mạch thế kỷ 14)"
+  },
+  {
+    "id": 79,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betød Reformationen for kirkens ejendom?",
+    "answer": "Kongen overtog den katolske kirkes jord og ejendom – kronen blev stærkere (vua chiếm đất đai của nhà thờ Công giáo)"
+  },
+  {
+    "id": 80,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Frederiksborg Slot?",
+    "answer": "Et renæssanceslot bygget af Christian 4. i Hillerød – nu Museum for Nationalhistorie (lâu đài Phục Hưng do Christian IV xây, nay là bảo tàng)"
+  },
+  {
+    "id": 81,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var 'den Store Nordiske Krig' (1700-1721)?",
+    "answer": "En krig mellem bl.a. Danmark-Norge og Sverige – Sverige mistede sin stormagtsposition (chiến tranh lớn Bắc Âu, Thụy Điển mất vị thế cường quốc)"
+  },
+  {
+    "id": 82,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var de landboreformer der blev gennemført i slutningen af 1700-tallet?",
+    "answer": "Afskaffelse af stavnsbåndet (1788), udskiftning af fællesjord og selveje for bønderne (cải cách ruộng đất, bỏ ràng buộc nông nô)"
+  },
+  {
+    "id": 83,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete under Københavns bombardement i 1807?",
+    "answer": "England bombarderede København og tog den danske flåde – Danmark gik i alliance med Napoleon (Anh ném bom Copenhagen, lấy hạm đội Đan Mạch)"
+  },
+  {
+    "id": 84,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var den danske guldalder?",
+    "answer": "En kulturel blomstringsperiode i 1800-tallets første halvdel med kunstnere som H.C. Andersen, Søren Kierkegaard og B. Thorvaldsen (thời kỳ vàng văn hóa Đan Mạch)"
+  },
+  {
+    "id": 85,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var H.C. Andersen?",
+    "answer": "En verdensberømt dansk eventyrforfatter (1805-1875) – skrev bl.a. Den Grimme Ælling og Den Lille Havfrue (nhà văn viết truyện cổ tích nổi tiếng thế giới)"
+  },
+  {
+    "id": 86,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var Søren Kierkegaard?",
+    "answer": "En dansk filosof (1813-1855) – anses for at være eksistentialismens fader (triết gia Đan Mạch, cha đẻ của chủ nghĩa hiện sinh)"
+  },
+  {
+    "id": 87,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betød industrialiseringen for dansk landbrug?",
+    "answer": "Landbruget blev moderniseret med maskiner og andelsbevægelsen – Danmark eksporterede smør, bacon og æg til England (hiện đại hóa nông nghiệp, xuất khẩu sang Anh)"
+  },
+  {
+    "id": 88,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete med Slesvig efter 1. Verdenskrig?",
+    "answer": "Nordslesvig stemte sig hjem til Danmark i 1920 (Genforeningen) – Sydslesvig forblev tysk (Bắc Schleswig sáp nhập lại Đan Mạch năm 1920)"
+  },
+  {
+    "id": 89,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var 'De bitre år' under besættelsen?",
+    "answer": "De sidste år af besættelsen (1943-45) med stigende modstand, repressalier og vold (những năm cay đắng cuối chiếm đóng với kháng chiến và bạo lực gia tăng)"
+  },
+  {
+    "id": 90,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var retsopgøret efter befrielsen?",
+    "answer": "Retsforfølgelse af dem der havde samarbejdet med besættelsesmagten – ca. 13.000 blev dømt (xét xử những người hợp tác với quân chiếm đóng)"
+  },
+  {
+    "id": 91,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Berlinmurens fald, og hvornår skete det?",
+    "answer": "Berlinmuren faldt den 9. november 1989 – det markerede afslutningen på Den Kolde Krig (bức tường Berlin sụp đổ, kết thúc Chiến tranh Lạnh)"
+  },
+  {
+    "id": 92,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Den Kolde Krig?",
+    "answer": "En politisk og militær spænding mellem Øst (Sovjetunionen) og Vest (USA/NATO) fra ca. 1945-1989 (căng thẳng chính trị-quân sự giữa Đông và Tây)"
+  },
+  {
+    "id": 93,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvordan påvirkede Den Kolde Krig Danmark?",
+    "answer": "Danmark blev NATO-medlem (1949) og var en del af den vestlige alliance – men havde en forsigtig udenrigspolitik kaldet 'fodnotepolitik' i 1980'erne"
+  },
+  {
+    "id": 94,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var 'fodnotepolitikken' i 1980'erne?",
+    "answer": "Danmark tog forbehold (fodnoter) i NATO-beslutninger om atomvåben – en kontroversiel sikkerhedspolitik (chính sách chú thích – Đan Mạch bảo lưu quyết định NATO về vũ khí hạt nhân)"
+  },
+  {
+    "id": 95,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår sendte Danmark soldater til Afghanistan?",
+    "answer": "Fra 2002, som en del af den internationale koalition efter terrorangrebet 11. september 2001 (từ năm 2002)"
+  },
+  {
+    "id": 96,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Grønlands og Færøernes status i forhold til Danmark?",
+    "answer": "De er selvstyrende dele af Rigsfællesskabet (các vùng tự trị trong Khối Thịnh vượng chung Đan Mạch)"
+  },
+  {
+    "id": 97,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik Grønland hjemmestyre?",
+    "answer": "I 1979 (hjemmestyre) og udvidet selvstyre i 2009 (quyền tự trị năm 1979, mở rộng năm 2009)"
+  },
+  {
+    "id": 98,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår fik Færøerne hjemmestyre?",
+    "answer": "I 1948 (quyền tự trị năm 1948)"
+  },
+  {
+    "id": 99,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Danmarks rolle i kolonitiden?",
+    "answer": "Danmark havde kolonier i Vestindien (nu Amerikanske Jomfruøer), handelskolonier i Indien og Vestafrika, samt Grønland (thuộc địa ở Caribbean, Ấn Độ, Tây Phi và Greenland)"
+  },
+  {
+    "id": 100,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår solgte Danmark De Dansk-Vestindiske Øer til USA?",
+    "answer": "I 1917 (năm 1917, bán cho Mỹ, nay là US Virgin Islands)"
+  },
+  {
+    "id": 101,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var slaveriet i de dansk-vestindiske kolonier?",
+    "answer": "Danmark deltog i slavehandlen – slaveriet blev afskaffet i 1848 af generalguvernør Peter von Scholten (Đan Mạch tham gia buôn bán nô lệ, bãi bỏ năm 1848)"
+  },
+  {
+    "id": 102,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem afskaffede slaveriet i Dansk Vestindien?",
+    "answer": "Peter von Scholten i 1848 (giải phóng nô lệ năm 1848)"
+  },
+  {
+    "id": 103,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Rosenborg Slot?",
+    "answer": "Et slot i København bygget af Christian 4. – det huser de danske kronjuveler (lâu đài ở Copenhagen do Christian IV xây, nơi lưu giữ vương miện hoàng gia)"
+  },
+  {
+    "id": 104,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad betød det for Danmark at miste Slesvig og Holsten i 1864?",
+    "answer": "Danmark mistede en tredjedel af sit territorium og ca. 40% af befolkningen – det førte til en national identitetskrise (mất 1/3 lãnh thổ và 40% dân số)"
+  },
+  {
+    "id": 105,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Højre og Venstre i dansk politik i 1800-tallet?",
+    "answer": "Højre repræsenterede godejere/borgerskabet, Venstre repræsenterede bønderne – kampen mellem dem førte til parlamentarisme i 1901"
+  },
+  {
+    "id": 106,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Socialdemokratiet grundlagt?",
+    "answer": "I 1871 – det blev Danmarks største parti i store dele af 1900-tallet (năm 1871, trở thành đảng lớn nhất trong phần lớn thế kỷ 20)"
+  },
+  {
+    "id": 107,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var bidraget fra arbejderbevægelsen til det danske samfund?",
+    "answer": "Kampen for bedre løn, arbejdsvilkår og sociale rettigheder – grundlaget for velfærdsstaten (đấu tranh cho lương, điều kiện làm việc tốt hơn – nền tảng cho nhà nước phúc lợi)"
+  },
+  {
+    "id": 108,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev bilfrie søndage indført i Danmark?",
+    "answer": "Under oliekrisen i 1973 – for at spare energi (trong khủng hoảng dầu 1973, cấm lái xe chủ nhật để tiết kiệm năng lượng)"
+  },
+  {
+    "id": 109,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er EU's indre marked?",
+    "answer": "Et marked med fri bevægelighed for varer, tjenesteydelser, kapital og personer inden for EU (thị trường tự do lưu thông hàng hóa, dịch vụ, vốn và người trong EU)"
+  },
+  {
+    "id": 110,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår afskaffede Danmark forsvarsforbeholdet i EU?",
+    "answer": "Ved folkeafstemning den 1. juni 2022 (bỏ điều khoản bảo lưu quốc phòng EU ngày 1/6/2022)"
+  },
+  {
+    "id": 111,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var den kolde krigs betydning for dansk forsvarspolitik?",
+    "answer": "Danmark blev NATO-medlem og baserede sit forsvar på alliancen med USA og Vesteuropa (gia nhập NATO, dựa vào liên minh với Mỹ và Tây Âu)"
+  },
+  {
+    "id": 112,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete i Ungarn i 1956, og hvordan reagerede Danmark?",
+    "answer": "Sovjetunionen slog et folkeoprør ned i Ungarn – Danmark tog imod ungarske flygtninge (Liên Xô đàn áp Hungary, Đan Mạch nhận người tị nạn Hungary)"
+  },
+  {
+    "id": 113,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår begyndte den store indvandring til Danmark?",
+    "answer": "I 1960'erne og 1970'erne, da Danmark hentede gæstearbejdere fra Tyrkiet, Pakistan og Jugoslavien (thập niên 60-70, nhập khẩu lao động khách)"
+  },
+  {
+    "id": 114,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad skete med Dansk Vestindien under slavetiden?",
+    "answer": "Slaverne arbejdede på sukkerroeplantager under brutale forhold – slaveriet varede frem til 1848 (nô lệ làm việc trên đồn điền mía đường đến năm 1848)"
+  },
+  {
+    "id": 115,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var betydningen af Kielerfreden i 1814?",
+    "answer": "Danmark måtte afgive Norge til Sverige – slut på den 400-årige dansk-norske union (mất Na Uy cho Thụy Điển, chấm dứt liên minh 400 năm)"
+  },
+  {
+    "id": 116,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var 'Det Danske Livsstykke' omkring Grundlovens indførelse?",
+    "answer": "Overgangen fra enevælde til folkestyre i 1849 skete fredeligt – uden revolution (chuyển từ chuyên chế sang dân chủ một cách hòa bình)"
+  },
+  {
+    "id": 117,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvem var Bertel Thorvaldsen?",
+    "answer": "En berømt dansk billedhugger (1770-1844) fra guldaldertiden – hans museum ligger i København (nhà điêu khắc nổi tiếng thời kỳ vàng)"
+  },
+  {
+    "id": 118,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad er Dybbøl Mølle et symbol på?",
+    "answer": "Et nationalt symbol på dansk modstandskamp og offeret under krigen i 1864 (biểu tượng quốc gia về sự hy sinh trong chiến tranh 1864)"
+  },
+  {
+    "id": 119,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvornår blev Island selvstændigt fra Danmark?",
+    "answer": "I 1944 – Island erklærede sig som republik (năm 1944, Iceland tuyên bố độc lập)"
+  },
+  {
+    "id": 120,
+    "chapter": "historie",
+    "chapterName": "Danmarks historie",
+    "question": "Hvad var Marshall-hjælpen, og hvordan påvirkede den Danmark?",
+    "answer": "Amerikansk økonomisk hjælp til Europa efter 2. Verdenskrig – hjalp med genopbygningen af dansk økonomi (viện trợ Mỹ giúp tái thiết kinh tế châu Âu sau Thế chiến II)"
+  },
+  {
+    "id": 121,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Grundloven?",
+    "answer": "Danmarks forfatning – den fastlægger de grundlæggende regler for statens styreform og borgernes rettigheder (hiến pháp Đan Mạch)"
+  },
+  {
+    "id": 122,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvornår fejres Grundlovsdag?",
+    "answer": "Den 5. juni – til minde om underskrivelsen af den første grundlov i 1849 (ngày 5/6, kỷ niệm ký hiến pháp đầu tiên)"
+  },
+  {
+    "id": 123,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er magtens tredeling?",
+    "answer": "Opdeling af statens magt i lovgivende (Folketinget), udøvende (regeringen) og dømmende (domstolene) magt (tam quyền phân lập: lập pháp, hành pháp, tư pháp)"
+  },
+  {
+    "id": 124,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem har den lovgivende magt i Danmark?",
+    "answer": "Folketinget (Quốc hội Đan Mạch)"
+  },
+  {
+    "id": 125,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem har den udøvende magt i Danmark?",
+    "answer": "Regeringen (chính phủ)"
+  },
+  {
+    "id": 126,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem har den dømmende magt i Danmark?",
+    "answer": "Domstolene (tòa án)"
+  },
+  {
+    "id": 127,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvor mange medlemmer har Folketinget?",
+    "answer": "179 medlemmer – heraf 2 fra Grønland og 2 fra Færøerne (179 thành viên, gồm 2 từ Greenland và 2 từ Quần đảo Faroe)"
+  },
+  {
+    "id": 128,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvor holder Folketinget til?",
+    "answer": "På Christiansborg i København (tại lâu đài Christiansborg ở Copenhagen)"
+  },
+  {
+    "id": 129,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er parlamentarisme?",
+    "answer": "Princippet om at en regering ikke kan regere hvis et flertal i Folketinget er imod den (chính phủ không thể cầm quyền nếu đa số Quốc hội phản đối)"
+  },
+  {
+    "id": 130,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et mistillidsvotum?",
+    "answer": "En afstemning i Folketinget hvor et flertal udtrykker mistillid til regeringen eller en minister – de skal derefter gå af (bỏ phiếu bất tín nhiệm)"
+  },
+  {
+    "id": 131,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er negativt flertal?",
+    "answer": "En regering kan regere så længe et flertal i Folketinget IKKE er aktivt imod den – den behøver ikke et positivt flertal bag sig (đa số tiêu cực – chính phủ cầm quyền nếu đa số không phản đối)"
+  },
+  {
+    "id": 132,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem udnævner statsministeren i Danmark?",
+    "answer": "Kongen/dronningen udnævner formelt statsministeren efter drøftelser (dronningerunde/kongerunde) med partilederne (nhà vua bổ nhiệm Thủ tướng sau tham vấn các lãnh đạo đảng)"
+  },
+  {
+    "id": 133,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en mindretalsregering?",
+    "answer": "En regering der ikke har flertal alene i Folketinget – den mest almindelige regeringsform i Danmark (chính phủ thiểu số, hình thức phổ biến nhất ở Đan Mạch)"
+  },
+  {
+    "id": 134,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er spærregrænsen i Danmark?",
+    "answer": "2% – et parti skal have mindst 2% af stemmerne for at komme i Folketinget (ngưỡng tối thiểu 2% để vào Quốc hội)"
+  },
+  {
+    "id": 135,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er valgretsalderen i Danmark?",
+    "answer": "18 år (18 tuổi – tuổi được quyền bầu cử)"
+  },
+  {
+    "id": 136,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem har stemmeret til folketingsvalg i Danmark?",
+    "answer": "Danske statsborgere over 18 år med fast bopæl i Danmark (công dân Đan Mạch trên 18 tuổi, cư trú tại Đan Mạch)"
+  },
+  {
+    "id": 137,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Kan udenlandske statsborgere stemme i Danmark?",
+    "answer": "Ja, til kommunal- og regionalvalg, hvis de har boet i Danmark i mindst 3-4 år (có thể bầu cử cấp địa phương nếu cư trú ít nhất 3-4 năm)"
+  },
+  {
+    "id": 138,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvor mange kommuner er der i Danmark?",
+    "answer": "98 kommuner (98 thành phố/quận)"
+  },
+  {
+    "id": 139,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvor mange regioner er der i Danmark?",
+    "answer": "5 regioner (5 vùng)"
+  },
+  {
+    "id": 140,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en region ansvarlig for?",
+    "answer": "Primært sygehuse/sundhedsvæsen (chủ yếu chịu trách nhiệm về bệnh viện/y tế)"
+  },
+  {
+    "id": 141,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er kommunerne ansvarlige for?",
+    "answer": "Folkeskoler, ældrepleje, børnepasning, integration, sociale ydelser m.m. (trường học, chăm sóc người già, nhà trẻ, hội nhập, trợ cấp xã hội v.v.)"
+  },
+  {
+    "id": 142,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvornår var strukturreformen?",
+    "answer": "I 2007 – amterne blev erstattet af 5 regioner, og antallet af kommuner blev reduceret til 98 (năm 2007, đổi từ amt sang 5 vùng, giảm còn 98 thành phố)"
+  },
+  {
+    "id": 143,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er ytringsfrihed?",
+    "answer": "Retten til frit at udtrykke sine meninger – beskyttet af Grundloven (quyền tự do ngôn luận, được hiến pháp bảo vệ)"
+  },
+  {
+    "id": 144,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er religionsfrihed?",
+    "answer": "Retten til frit at vælge sin religion eller tro – beskyttet af Grundloven (quyền tự do tôn giáo)"
+  },
+  {
+    "id": 145,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forsamlingsfrihed?",
+    "answer": "Retten til at samles i grupper og demonstrere fredeligt (quyền tự do hội họp và biểu tình hòa bình)"
+  },
+  {
+    "id": 146,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er foreningsfrihed?",
+    "answer": "Retten til at danne og være medlem af foreninger og organisationer (quyền tự do lập hội và tham gia tổ chức)"
+  },
+  {
+    "id": 147,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er den kriminelle lavalder i Danmark?",
+    "answer": "15 år (15 tuổi – tuổi chịu trách nhiệm hình sự)"
+  },
+  {
+    "id": 148,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Er der dødsstraf i Danmark?",
+    "answer": "Nej, Danmark har ingen dødsstraf – den blev afskaffet i fredstid i 1930 og helt i 1978 (không có án tử hình)"
+  },
+  {
+    "id": 149,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er boligens ukrænkelighed?",
+    "answer": "Myndighederne må ikke trænge ind i en privat bolig uden en dommerkendelse (nhà ở bất khả xâm phạm, chính quyền cần lệnh tòa để vào nhà)"
+  },
+  {
+    "id": 150,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Folkekirkens rolle ifølge Grundloven?",
+    "answer": "Den evangelisk-lutherske kirke er den danske folkekirke og støttes af staten (nhà thờ Lutheran là quốc giáo, được nhà nước hỗ trợ)"
+  },
+  {
+    "id": 151,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er værnepligten i Danmark?",
+    "answer": "En pligt for mænd til at aftjene militærtjeneste – fra 1. juli 2025 gælder den også for kvinder (nghĩa vụ quân sự, từ 1/7/2025 áp dụng cho cả nam và nữ)"
+  },
+  {
+    "id": 152,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvornår begynder værnepligten også at gælde kvinder?",
+    "answer": "Fra den 1. juli 2025 (từ ngày 1/7/2025)"
+  },
+  {
+    "id": 153,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er borgernes vigtigste pligter ifølge loven?",
+    "answer": "Skattepligt, undervisningspligt for børn, værnepligt og pligt til at hjælpe ved ulykker (nghĩa vụ thuế, giáo dục con, quân sự, giúp đỡ khi tai nạn)"
+  },
+  {
+    "id": 154,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Højesteret?",
+    "answer": "Danmarks øverste domstol – den afgør sager i sidste instans (Tòa án Tối cao Đan Mạch)"
+  },
+  {
+    "id": 155,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er de tre instanser i det danske retssystem?",
+    "answer": "Byret, Landsret og Højesteret (Tòa thành phố, Tòa khu vực, Tòa tối cao)"
+  },
+  {
+    "id": 156,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Ombudsmanden?",
+    "answer": "Folketingets Ombudsmand kontrollerer den offentlige forvaltning og sikrer borgernes rettigheder (thanh tra Quốc hội, giám sát hành chính công)"
+  },
+  {
+    "id": 157,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forskellen på et kommunalvalg og et folketingsvalg?",
+    "answer": "Kommunalvalg er til kommunalbestyrelsen (lokalt), folketingsvalg er til det nationale parlament – udenlandske statsborgere kan stemme til kommunalvalg men ikke folketingsvalg"
+  },
+  {
+    "id": 158,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvornår afholdes kommunalvalg i Danmark?",
+    "answer": "Hvert 4. år (mỗi 4 năm một lần)"
+  },
+  {
+    "id": 159,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Er der valgpligt i Danmark?",
+    "answer": "Nej, der er stemmeret men ikke stemmepligt (không bắt buộc đi bầu, chỉ có quyền bầu cử)"
+  },
+  {
+    "id": 160,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en folkeafstemning?",
+    "answer": "En afstemning hvor alle stemmeberettigede borgere stemmer direkte om et bestemt spørgsmål (trưng cầu dân ý)"
+  },
+  {
+    "id": 161,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvornår kræves der en folkeafstemning ifølge Grundloven?",
+    "answer": "Bl.a. ved suverænitetsafgivelse til internationale organisationer og ved grundlovsændringer (khi chuyển giao chủ quyền và thay đổi hiến pháp)"
+  },
+  {
+    "id": 162,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er kongens/dronningens rolle i Danmark?",
+    "answer": "Statsoverhovedet – en ceremoniel rolle uden reel politisk magt (nguyên thủ quốc gia – vai trò nghi lễ, không có quyền lực chính trị thực sự)"
+  },
+  {
+    "id": 163,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Statsrådet?",
+    "answer": "Et møde mellem kongen/dronningen og ministrene, hvor lovforslag formelt underskrives (cuộc họp giữa nhà vua và các bộ trưởng, nơi luật được ký chính thức)"
+  },
+  {
+    "id": 164,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et lovforslags vej gennem Folketinget?",
+    "answer": "Et lovforslag behandles tre gange i Folketinget (1., 2. og 3. behandling) før det kan vedtages (dự luật được thảo luận 3 lần trước khi thông qua)"
+  },
+  {
+    "id": 165,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et finanslovsforslag?",
+    "answer": "Regeringens forslag til statens budget for det kommende år – skal vedtages af Folketinget (dự thảo ngân sách nhà nước, Quốc hội phải thông qua)"
+  },
+  {
+    "id": 166,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et politisk forlig?",
+    "answer": "En aftale mellem to eller flere partier om at gennemføre en bestemt politik (thỏa thuận giữa các đảng về chính sách cụ thể)"
+  },
+  {
+    "id": 167,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er de politiske blokke i Danmark?",
+    "answer": "Traditionelt rød blok (venstrefløjen, anført af Socialdemokratiet) og blå blok (højrefløjen, anført af Venstre/Konservative) (khối đỏ – cánh tả, khối xanh – cánh hữu)"
+  },
+  {
+    "id": 168,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Folketingets vigtigste opgaver?",
+    "answer": "At vedtage love, godkende statsbudgettet og kontrollere regeringen (thông qua luật, phê duyệt ngân sách, kiểm soát chính phủ)"
+  },
+  {
+    "id": 169,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et grundlovsforhør?",
+    "answer": "Inden for 24 timer efter anholdelse skal en person fremstilles for en dommer, der vurderer om frihedsberøvelsen er lovlig (trong 24 giờ sau bắt giữ, phải đưa ra trước thẩm phán)"
+  },
+  {
+    "id": 170,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er pressefrihed?",
+    "answer": "Medierne har ret til at skrive og publicere nyheder frit uden censur (quyền tự do báo chí, không kiểm duyệt)"
+  },
+  {
+    "id": 171,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Er der censur i Danmark?",
+    "answer": "Nej, censur er forbudt ifølge Grundloven (không, kiểm duyệt bị cấm theo hiến pháp)"
+  },
+  {
+    "id": 172,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er ligestilling mellem kønnene?",
+    "answer": "Princippet om at mænd og kvinder har lige rettigheder og muligheder (nguyên tắc bình đẳng giới – nam nữ có quyền và cơ hội ngang nhau)"
+  },
+  {
+    "id": 173,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er undervisningspligten i Danmark?",
+    "answer": "Børn har pligt til at modtage undervisning fra de er ca. 6 år til 9./10. klasse – men ikke skolepligt (nghĩa vụ học, không bắt buộc đến trường – có thể học ở nhà)"
+  },
+  {
+    "id": 174,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forskellen på undervisningspligt og skolepligt?",
+    "answer": "Undervisningspligt: børn skal undervises, men ikke nødvendigvis i en skole – forældre kan vælge hjemmeundervisning (nghĩa vụ học ≠ nghĩa vụ đến trường)"
+  },
+  {
+    "id": 175,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et flerpartisystem?",
+    "answer": "Et politisk system med mange partier – Danmark har typisk 10-14 partier i Folketinget (hệ thống đa đảng)"
+  },
+  {
+    "id": 176,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forholdstalsvalg?",
+    "answer": "Et valgsystem hvor mandaterne fordeles i forhold til partiernes stemmeandel (bầu cử theo tỷ lệ đại diện)"
+  },
+  {
+    "id": 177,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Rigsretten?",
+    "answer": "En særlig domstol der kan dømme ministre for lovovertrædelser i embedet (tòa án đặc biệt xử bộ trưởng vi phạm pháp luật)"
+  },
+  {
+    "id": 178,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er ministeransvarlighed?",
+    "answer": "Ministre er juridisk ansvarlige for deres embedsførelse – de kan stilles for Rigsretten (bộ trưởng chịu trách nhiệm pháp lý, có thể bị đưa ra Rigsretten)"
+  },
+  {
+    "id": 179,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en koalitionsregering?",
+    "answer": "En regering bestående af to eller flere partier (chính phủ liên minh gồm hai hoặc nhiều đảng)"
+  },
+  {
+    "id": 180,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et borgerforslag?",
+    "answer": "Borgere kan fremsætte lovforslag der skal behandles i Folketinget, hvis de samler 50.000 underskrifter (công dân đề xuất luật nếu thu được 50.000 chữ ký)"
+  },
+  {
+    "id": 181,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvem er Danmarks statsoverhoved?",
+    "answer": "Kongen (fra 2024: Frederik 10.) (nhà vua – từ 2024: Frederik X)"
+  },
+  {
+    "id": 182,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Nævningeudvalget?",
+    "answer": "Nævninge (lægdommere) er almindelige borgere der medvirker i alvorlige straffesager (bồi thẩm đoàn – công dân bình thường tham gia xét xử vụ hình sự nghiêm trọng)"
+  },
+  {
+    "id": 183,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forskellen på en flertalsregering og en mindretalsregering?",
+    "answer": "En flertalsregering har flertal alene i Folketinget, en mindretalsregering har det ikke og er afhængig af støttepartier (chính phủ đa số tự có đa số, chính phủ thiểu số cần đảng hỗ trợ)"
+  },
+  {
+    "id": 184,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Rigsombudsmanden?",
+    "answer": "Rigsombudsmanden repræsenterer den danske stat på Færøerne og i Grønland (đại diện nhà nước Đan Mạch tại Faroe và Greenland)"
+  },
+  {
+    "id": 185,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er det danske velfærdssamfund baseret på?",
+    "answer": "Et princip om at alle bidrager via skat og alle modtager ydelser efter behov – universalisme (nguyên tắc phổ quát – tất cả đóng thuế và nhận dịch vụ theo nhu cầu)"
+  },
+  {
+    "id": 186,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er den personlige frihed?",
+    "answer": "Retten til ikke at blive frihedsberøvet uden lovhjemmel – beskyttet af Grundloven §71 (quyền tự do cá nhân, không bị giam giữ mà không có cơ sở pháp luật)"
+  },
+  {
+    "id": 187,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er ejendomsretten ifølge Grundloven?",
+    "answer": "Retten til at eje ejendom er beskyttet – staten kan kun ekspropriere mod fuld erstatning (quyền sở hữu tài sản được bảo vệ)"
+  },
+  {
+    "id": 188,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Rigsfællesskabet?",
+    "answer": "Fællesskabet mellem Danmark, Grønland og Færøerne (khối thịnh vượng chung giữa Đan Mạch, Greenland và Faroe)"
+  },
+  {
+    "id": 189,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er forskellen på en grundlovsændring og en almindelig lovændring?",
+    "answer": "En grundlovsændring kræver vedtagelse i to på hinanden følgende folketing + en folkeafstemning (thay đổi hiến pháp cần 2 Quốc hội liên tiếp + trưng cầu dân ý)"
+  },
+  {
+    "id": 190,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et udvalg i Folketinget?",
+    "answer": "En mindre gruppe folketingsmedlemmer der arbejder med et bestemt politikområde (ủy ban trong Quốc hội chuyên về lĩnh vực cụ thể)"
+  },
+  {
+    "id": 191,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en Folketingsdebat?",
+    "answer": "En diskussion i Folketingssalen hvor medlemmerne debatterer lovforslag og aktuelle politiske spørgsmål (tranh luận trong Quốc hội về dự luật và vấn đề chính trị)"
+  },
+  {
+    "id": 192,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et §20-spørgsmål?",
+    "answer": "Et spørgsmål fra et folketingsmedlem til en minister – et vigtigt kontrolinstrument (câu hỏi chất vấn bộ trưởng – công cụ kiểm soát quan trọng)"
+  },
+  {
+    "id": 193,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er en valgperiode i Danmark?",
+    "answer": "Maksimalt 4 år – men statsministeren kan udskrive valg når som helst (tối đa 4 năm, Thủ tướng có thể giải tán Quốc hội bất cứ lúc nào)"
+  },
+  {
+    "id": 194,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Danmarks Riges Grundlov af 1953?",
+    "answer": "Den gældende grundlov – vedtaget 5. juni 1953, den erstattede Grundloven af 1915 (hiến pháp hiện hành, ngày 5/6/1953)"
+  },
+  {
+    "id": 195,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er kommunalbestyrelsen?",
+    "answer": "Det lokale folkevalgte organ i en kommune – ledet af borgmesteren (hội đồng thành phố do dân bầu, lãnh đạo bởi thị trưởng)"
+  },
+  {
+    "id": 196,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er Regionsrådet?",
+    "answer": "Det folkevalgte organ i en region – primært ansvarligt for sygehuse (hội đồng vùng do dân bầu, chịu trách nhiệm bệnh viện)"
+  },
+  {
+    "id": 197,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er trossamfund i Danmark?",
+    "answer": "Religiøse samfund ud over Folkekirken – de har ret til at praktisere deres religion frit (các cộng đồng tôn giáo ngoài Quốc giáo, có quyền thực hành tự do)"
+  },
+  {
+    "id": 198,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er et politisk parti?",
+    "answer": "En organisation der opstiller kandidater til valg og arbejder for at påvirke samfundet politisk (tổ chức chính trị đưa ứng viên tranh cử)"
+  },
+  {
+    "id": 199,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvor mange partier skal stå bag et nyt parti for at det kan opstilles?",
+    "answer": "Et nyt parti skal samle et antal vælgererklæringer svarende til 1/175 af gyldige stemmer ved seneste valg (khoảng ~20.000 chữ ký)"
+  },
+  {
+    "id": 200,
+    "chapter": "demokrati",
+    "chapterName": "Det danske demokrati",
+    "question": "Hvad er den demokratiske samtalekultur i Danmark?",
+    "answer": "En tradition for at løse konflikter gennem dialog, kompromis og forhandling (truyền thống giải quyết xung đột qua đối thoại, thỏa hiệp và đàm phán)"
+  },
+  {
+    "id": 201,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er velfærdssamfundet?",
+    "answer": "Et samfund hvor staten sikrer borgernes velfærd gennem offentlige ydelser finansieret af skatter (nhà nước phúc lợi – nhà nước đảm bảo phúc lợi công dân thông qua thuế)"
+  },
+  {
+    "id": 202,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er moms i Danmark?",
+    "answer": "25% – en forbrugsafgift på varer og tjenesteydelser (thuế giá trị gia tăng 25%)"
+  },
+  {
+    "id": 203,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er det personlige bundfradrag i Danmark?",
+    "answer": "Ca. 51.600 kr – den del af indkomsten man ikke betaler skat af (khoảng 51.600 kr không phải đóng thuế)"
+  },
+  {
+    "id": 204,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Danmarks BNP per capita?",
+    "answer": "Ca. 72.000 USD – Danmark er verdens 9. rigeste land (khoảng 72.000 USD/người, giàu thứ 9 thế giới)"
+  },
+  {
+    "id": 205,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er flexicurity?",
+    "answer": "Den danske model med fleksibelt arbejdsmarked, social sikkerhed (dagpenge) og aktiv beskæftigelsespolitik (mô hình linh hoạt + an sinh: dễ sa thải, có trợ cấp thất nghiệp, chính sách việc làm tích cực)"
+  },
+  {
+    "id": 206,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er de tre elementer i flexicurity?",
+    "answer": "1) Fleksibelt arbejdsmarked, 2) Social sikkerhed (dagpenge), 3) Aktiv beskæftigelsespolitik (3 yếu tố: thị trường lao động linh hoạt, an sinh xã hội, chính sách việc làm tích cực)"
+  },
+  {
+    "id": 207,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Den Danske Model?",
+    "answer": "Et system hvor arbejdsmarkedets parter (fagforeninger og arbejdsgivere) selv forhandler løn og arbejdsvilkår – med minimal statslig indblanding (các bên tự đàm phán lương và điều kiện làm việc)"
+  },
+  {
+    "id": 208,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er FH?",
+    "answer": "Fagbevægelsens Hovedorganisation – den største sammenslutning af fagforeninger i Danmark (Tổ chức chính của phong trào công đoàn Đan Mạch)"
+  },
+  {
+    "id": 209,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er DA?",
+    "answer": "Dansk Arbejdsgiverforening – arbejdsgivernes hovedorganisation (Hiệp hội Giới chủ Đan Mạch)"
+  },
+  {
+    "id": 210,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er DI?",
+    "answer": "Dansk Industri – en af de største arbejdsgiverorganisationer (Công nghiệp Đan Mạch – tổ chức giới chủ lớn nhất)"
+  },
+  {
+    "id": 211,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Er der en lovbestemt mindsteløn i Danmark?",
+    "answer": "Nej, der er ingen lovbestemt mindsteløn – lønnen aftales mellem fagforeninger og arbejdsgivere (không có lương tối thiểu theo luật)"
+  },
+  {
+    "id": 212,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er en overenskomst?",
+    "answer": "En aftale mellem fagforeninger og arbejdsgivere om løn og arbejdsvilkår (thỏa thuận lao động tập thể về lương và điều kiện làm việc)"
+  },
+  {
+    "id": 213,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er en fagforening?",
+    "answer": "En organisation der varetager lønmodtagernes interesser i forhandlinger med arbejdsgiverne (công đoàn – bảo vệ quyền lợi người lao động)"
+  },
+  {
+    "id": 214,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er en a-kasse?",
+    "answer": "En frivillig arbejdsløshedsforsikring – den udbetaler dagpenge ved ledighed (quỹ bảo hiểm thất nghiệp tự nguyện)"
+  },
+  {
+    "id": 215,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Er det obligatorisk at være medlem af en a-kasse?",
+    "answer": "Nej, det er frivilligt – men man skal være medlem for at modtage dagpenge (không bắt buộc, nhưng phải tham gia để nhận trợ cấp thất nghiệp)"
+  },
+  {
+    "id": 216,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er folkepensionsalderen i Danmark?",
+    "answer": "67 år (fra 2022) – den stiger til 69 år i 2035 (67 tuổi từ 2022, tăng lên 69 tuổi năm 2035)"
+  },
+  {
+    "id": 217,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Nævn nogle af Danmarks største virksomheder.",
+    "answer": "Novo Nordisk, Maersk, LEGO, Carlsberg, Vestas og Arla (các tập đoàn lớn nhất Đan Mạch)"
+  },
+  {
+    "id": 218,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad producerer Novo Nordisk?",
+    "answer": "Medicin – primært insulin og diabetesbehandling, samt Ozempic/Wegovy mod overvægt (thuốc tiểu đường và thuốc giảm cân)"
+  },
+  {
+    "id": 219,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Maersk?",
+    "answer": "Verdens største containerrederi – grundlagt i Danmark (hãng vận tải container lớn nhất thế giới)"
+  },
+  {
+    "id": 220,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er LEGO?",
+    "answer": "En dansk legetøjsvirksomhed – verdenskendt for plastikklodser – grundlagt i Billund (hãng đồ chơi nổi tiếng thế giới, sáng lập ở Billund)"
+  },
+  {
+    "id": 221,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Vestas?",
+    "answer": "En dansk virksomhed der producerer vindmøller – verdens største vindmølleproducent (hãng sản xuất tua bin gió lớn nhất thế giới)"
+  },
+  {
+    "id": 222,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Arla?",
+    "answer": "Et dansk-svensk andelsselskab – en af verdens største mejerivirksomheder (tập đoàn sữa hợp tác xã lớn nhất thế giới)"
+  },
+  {
+    "id": 223,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Carlsberg?",
+    "answer": "Et dansk bryggeri grundlagt i 1847 – en af verdens største ølproducenter (nhà máy bia Đan Mạch, một trong lớn nhất thế giới)"
+  },
+  {
+    "id": 224,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er SU?",
+    "answer": "Statens Uddannelsesstøtte – økonomisk støtte til studerende (học bổng/trợ cấp nhà nước cho sinh viên)"
+  },
+  {
+    "id": 225,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Er uddannelse gratis i Danmark?",
+    "answer": "Ja, offentlige uddannelser er gratis for danske borgere og EU-borgere (giáo dục công lập miễn phí)"
+  },
+  {
+    "id": 226,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er det offentlige sundhedsvæsen?",
+    "answer": "Et skattefinansieret system med gratis lægebesøg og hospitalsbehandling for alle borgere (hệ thống y tế công, miễn phí khám bác sĩ và bệnh viện)"
+  },
+  {
+    "id": 227,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er skatteprocenten i Danmark?",
+    "answer": "Blandt de højeste i verden – kommuneskat ca. 25% + bundskat 12,09% + evt. topskat 15% (thuế suất cao nhất thế giới)"
+  },
+  {
+    "id": 228,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad bruges skatteindtægterne til?",
+    "answer": "Sundhedsvæsen, uddannelse, sociale ydelser, infrastruktur, forsvar m.m. (y tế, giáo dục, trợ cấp xã hội, cơ sở hạ tầng, quốc phòng v.v.)"
+  },
+  {
+    "id": 229,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er dagpenge?",
+    "answer": "Ydelser til ledige der er medlem af en a-kasse – tidsbegrænset til 2 år (trợ cấp thất nghiệp cho thành viên a-kasse, tối đa 2 năm)"
+  },
+  {
+    "id": 230,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er kontanthjælp?",
+    "answer": "En offentlig ydelse til personer der ikke kan forsørge sig selv og ikke har ret til dagpenge (trợ cấp xã hội cho người không tự nuôi sống được và không đủ điều kiện nhận dagpenge)"
+  },
+  {
+    "id": 231,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er en strejke?",
+    "answer": "Arbejdernes kollektive arbejdsnedlæggelse som pression under overenskomstforhandlinger (đình công – người lao động ngừng việc tập thể trong đàm phán)"
+  },
+  {
+    "id": 232,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er en lockout?",
+    "answer": "Arbejdsgivernes svar på strejke – de lukker arbejdspladserne og udelukker de ansatte (giới chủ đóng cửa nhà máy và không cho công nhân làm việc)"
+  },
+  {
+    "id": 233,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er forligsinstitutionen?",
+    "answer": "En statslig institution der mægler ved konflikter mellem arbejdsgivere og lønmodtagere (cơ quan hòa giải nhà nước trong xung đột lao động)"
+  },
+  {
+    "id": 234,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er børnepenge/børne- og ungeydelse?",
+    "answer": "En offentlig ydelse der udbetales til familier med børn under 18 år (trợ cấp trẻ em cho gia đình có con dưới 18 tuổi)"
+  },
+  {
+    "id": 235,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er ATP?",
+    "answer": "Arbejdsmarkedets Tillægspension – en obligatorisk pensionsordning for alle lønmodtagere (lương hưu bổ sung bắt buộc cho tất cả người lao động)"
+  },
+  {
+    "id": 236,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er forskellen på den offentlige og private sektor?",
+    "answer": "Den offentlige sektor: stat, regioner, kommuner. Den private sektor: virksomheder ejet af private (công vs tư – nhà nước/vùng/thành phố vs doanh nghiệp tư nhân)"
+  },
+  {
+    "id": 237,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad kendetegner det danske arbejdsmarked?",
+    "answer": "Høj organisationsgrad, overenskomster, flexicurity og en tradition for dialog mellem parterne (tỷ lệ vào công đoàn cao, thỏa thuận tập thể, flexicurity, truyền thống đối thoại)"
+  },
+  {
+    "id": 238,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er barselsorlov i Danmark?",
+    "answer": "Ret til betalt orlov ved fødsel – i alt ca. 52 uger fordelt mellem forældrene (nghỉ sinh con có lương khoảng 52 tuần chia giữa cha mẹ)"
+  },
+  {
+    "id": 239,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Danmarks vigtigste eksportvarer?",
+    "answer": "Medicin/farmaceutiske produkter, maskiner, fødevarer (smør, kød, mejeriprodukter), vindmøller og olie (thuốc, máy móc, thực phẩm, tua bin gió, dầu)"
+  },
+  {
+    "id": 240,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er betydningen af Nordsøolien for Danmark?",
+    "answer": "Olie- og gasproduktion i Nordsøen har bidraget til dansk velstand siden 1970'erne (dầu khí Biển Bắc đóng góp cho sự thịnh vượng từ thập niên 70)"
+  },
+  {
+    "id": 241,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er den grønne omstilling?",
+    "answer": "Danmarks mål om at blive uafhængig af fossile brændstoffer og overgå til vedvarende energi (chuyển đổi xanh – mục tiêu độc lập khỏi nhiên liệu hóa thạch)"
+  },
+  {
+    "id": 242,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er vindenergi i Danmark?",
+    "answer": "Danmark er verdensførende inden for vindenergi – ca. 50% af elforbruget kommer fra vind (hàng đầu thế giới về năng lượng gió, ~50% điện từ gió)"
+  },
+  {
+    "id": 243,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er SAS?",
+    "answer": "Scandinavian Airlines System – et skandinavisk flyselskab medstiftet af Danmark (hãng hàng không Bắc Âu, Đan Mạch đồng sáng lập)"
+  },
+  {
+    "id": 244,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er integrationsydelse?",
+    "answer": "En lavere ydelse end kontanthjælp til personer der ikke har boet i Danmark i mindst 9 af de seneste 10 år (trợ cấp hội nhập, thấp hơn kontanthjælp)"
+  },
+  {
+    "id": 245,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er et CPR-nummer?",
+    "answer": "Det Centrale Personregister-nummer – et unikt 10-cifret nummer til alle borgere i Danmark (số định danh cá nhân 10 chữ số cho mọi cư dân)"
+  },
+  {
+    "id": 246,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er SKAT?",
+    "answer": "Den danske skattemyndighed der opkræver skatter og afgifter (cơ quan thuế Đan Mạch)"
+  },
+  {
+    "id": 247,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er efterløn?",
+    "answer": "En frivillig tilbagetrækningsordning for personer over 60 år – man skal have indbetalt til ordningen (chế độ nghỉ hưu sớm tự nguyện cho người trên 60 tuổi)"
+  },
+  {
+    "id": 248,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvorfor er det danske skattetryk blandt verdens højeste?",
+    "answer": "Fordi staten finansierer et omfattende velfærdssystem med gratis sundhed, uddannelse og sociale ydelser (vì nhà nước tài trợ hệ thống phúc lợi rộng lớn)"
+  },
+  {
+    "id": 249,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er iværksætterkultur i Danmark?",
+    "answer": "Danmark støtter iværksætteri med gunstige vilkår, lav bureaukrati og adgang til kapital – mange startups inden for tech og grøn energi (hỗ trợ khởi nghiệp, ít quan liêu)"
+  },
+  {
+    "id": 250,
+    "chapter": "okonomi",
+    "chapterName": "Den danske økonomi",
+    "question": "Hvad er Septemberforligets betydning for den danske økonomi?",
+    "answer": "Det etablerede Den Danske Model i 1899 – grundlaget for det organiserede samspil mellem arbejdsgivere og lønmodtagere der stadig præger dansk økonomi (thiết lập Mô hình Đan Mạch năm 1899, nền tảng cho quan hệ lao động có tổ chức)"
+  },
+  {
+    "id": 251,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange medlemslande har EU?",
+    "answer": "27 medlemslande (27 nước thành viên)"
+  },
+  {
+    "id": 252,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Cirka hvor mange indbyggere bor der i EU's medlemslande tilsammen?",
+    "answer": "Ca. 450 millioner indbyggere (khoảng 450 triệu dân)"
+  },
+  {
+    "id": 253,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår blev Danmark medlem af EF (nu EU)?",
+    "answer": "1. januar 1973"
+  },
+  {
+    "id": 254,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder EU's udøvende organ, som foreslår ny lovgivning?",
+    "answer": "Europa-Kommissionen (Ủy ban Châu Âu)"
+  },
+  {
+    "id": 255,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange kommissærer sidder der i Europa-Kommissionen?",
+    "answer": "27 kommissærer – én fra hvert medlemsland"
+  },
+  {
+    "id": 256,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvem er Danmarks EU-kommissær fra 2024?",
+    "answer": "Dan Jørgensen"
+  },
+  {
+    "id": 257,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange medlemmer sidder der i Europa-Parlamentet?",
+    "answer": "720 medlemmer"
+  },
+  {
+    "id": 258,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange pladser har Danmark i Europa-Parlamentet?",
+    "answer": "15 pladser"
+  },
+  {
+    "id": 259,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er Europa-Parlamentets vigtigste opgave?",
+    "answer": "At vedtage EU-lovgivning sammen med Ministerrådet og godkende EU's budget (thông qua luật EU và ngân sách)"
+  },
+  {
+    "id": 260,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder det organ, hvor ministre fra medlemslandene mødes for at vedtage lovgivning?",
+    "answer": "Ministerrådet (Rådet for Den Europæiske Union)"
+  },
+  {
+    "id": 261,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder det møde, hvor EU's stats- og regeringschefer mødes?",
+    "answer": "Det Europæiske Råd (Hội đồng Châu Âu)"
+  },
+  {
+    "id": 262,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad stemte danskerne om Maastricht-traktaten i 1992?",
+    "answer": "Et flertal stemte NEJ (đa số bỏ phiếu KHÔNG)"
+  },
+  {
+    "id": 263,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder den aftale, der gav Danmark forbehold i EU efter nej'et i 1992?",
+    "answer": "Edinburgh-aftalen (1993)"
+  },
+  {
+    "id": 264,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange aktive EU-forbehold har Danmark i dag?",
+    "answer": "2 aktive forbehold: euroen og retsforbeholdet/udlændingepolitik"
+  },
+  {
+    "id": 265,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvilket dansk EU-forbehold blev afskaffet ved folkeafstemning i 2022?",
+    "answer": "Forsvarsforbeholdet (bỏ điều khoản ngoại lệ quốc phòng)"
+  },
+  {
+    "id": 266,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder den danske valuta, som Danmark beholder i stedet for euroen?",
+    "answer": "Den danske krone (DKK)"
+  },
+  {
+    "id": 267,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår har Danmark EU-formandskab?",
+    "answer": "Juli-december 2025 (nửa cuối năm 2025)"
+  },
+  {
+    "id": 268,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad betyder det, at Danmark har retsforbeholdet?",
+    "answer": "Danmark deltager ikke automatisk i EU's samarbejde om retlige og indre anliggender (DK không tự động tham gia hợp tác tư pháp EU)"
+  },
+  {
+    "id": 269,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor har Europa-Parlamentet til huse?",
+    "answer": "I Strasbourg (Frankrig) og Bruxelles (Belgien)"
+  },
+  {
+    "id": 270,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor har Europa-Kommissionen hovedsæde?",
+    "answer": "I Bruxelles, Belgien"
+  },
+  {
+    "id": 271,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder EU's domstol, og hvor ligger den?",
+    "answer": "EU-Domstolen, i Luxembourg"
+  },
+  {
+    "id": 272,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår blev FN grundlagt?",
+    "answer": "I 1945, efter 2. verdenskrig"
+  },
+  {
+    "id": 273,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange medlemslande har FN?",
+    "answer": "193 medlemslande"
+  },
+  {
+    "id": 274,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange faste medlemmer har FN's Sikkerhedsråd?",
+    "answer": "5 faste medlemmer (USA, Rusland, Kina, Frankrig, Storbritannien)"
+  },
+  {
+    "id": 275,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange skiftende medlemmer har FN's Sikkerhedsråd?",
+    "answer": "10 skiftende (ikke-permanente) medlemmer"
+  },
+  {
+    "id": 276,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår sidder Danmark i FN's Sikkerhedsråd?",
+    "answer": "2025-2026"
+  },
+  {
+    "id": 277,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er FN-byen i København?",
+    "answer": "Et FN-center i København, der huser flere FN-organisationer som UNICEF og WHO (trung tâm LHQ tại Copenhagen)"
+  },
+  {
+    "id": 278,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad står UNICEF for?",
+    "answer": "United Nations Children's Fund – FN's Børnefond (Quỹ Nhi đồng LHQ)"
+  },
+  {
+    "id": 279,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad står WHO for?",
+    "answer": "World Health Organization – Verdenssundhedsorganisationen (Tổ chức Y tế Thế giới)"
+  },
+  {
+    "id": 280,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår blev Europarådet oprettet?",
+    "answer": "I 1949"
+  },
+  {
+    "id": 281,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange medlemslande har Europarådet?",
+    "answer": "47 medlemslande"
+  },
+  {
+    "id": 282,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er Europarådets vigtigste konvention?",
+    "answer": "Den Europæiske Menneskerettighedskonvention (Công ước Nhân quyền Châu Âu)"
+  },
+  {
+    "id": 283,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Er Europarådet det samme som EU?",
+    "answer": "Nej, Europarådet er en separat organisation med 47 medlemmer, mens EU har 27 (không, đây là 2 tổ chức khác nhau)"
+  },
+  {
+    "id": 284,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår blev NATO grundlagt?",
+    "answer": "I 1949"
+  },
+  {
+    "id": 285,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er NATO's artikel 5?",
+    "answer": "Musketér-princippet: et angreb på ét NATO-land betragtes som et angreb på alle (nguyên tắc phòng thủ tập thể)"
+  },
+  {
+    "id": 286,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Er Danmark et af NATO's grundlæggende medlemmer?",
+    "answer": "Ja, Danmark var med til at grundlægge NATO i 1949"
+  },
+  {
+    "id": 287,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår deltog Danmark i krigen i Afghanistan?",
+    "answer": "Fra 2002 til 2021"
+  },
+  {
+    "id": 288,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange danske soldater blev dræbt i Afghanistan?",
+    "answer": "44 danske soldater (44 lính Đan Mạch tử trận)"
+  },
+  {
+    "id": 289,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår deltog Danmark i krigen i Irak?",
+    "answer": "Fra 2003"
+  },
+  {
+    "id": 290,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor mange danske soldater blev dræbt i Irak?",
+    "answer": "8 danske soldater"
+  },
+  {
+    "id": 291,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad har Danmark doneret til Ukraine i forbindelse med krigen?",
+    "answer": "19 F-16 kampfly (19 máy bay chiến đấu F-16)"
+  },
+  {
+    "id": 292,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er NATO's forsvarsmål for Danmark i 2025 målt i andel af BNP?",
+    "answer": "5% af BNP"
+  },
+  {
+    "id": 293,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder Danmarks officielle udviklingsbistandsorganisation?",
+    "answer": "Danida"
+  },
+  {
+    "id": 294,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor stor en andel af BNI bruger Danmark på udviklingsbistand?",
+    "answer": "0,7% af BNI (bruttonationalindkomsten)"
+  },
+  {
+    "id": 295,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er formålet med Danida?",
+    "answer": "At yde udviklingsbistand til fattige lande og fremme demokrati, menneskerettigheder og bæredygtig udvikling (viện trợ phát triển cho các nước nghèo)"
+  },
+  {
+    "id": 296,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er FN's Generalforsamling?",
+    "answer": "Det organ i FN, hvor alle 193 medlemslande har en stemme (Đại hội đồng LHQ, mỗi nước 1 phiếu)"
+  },
+  {
+    "id": 297,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder FN's øverste leder?",
+    "answer": "FN's generalsekretær (Tổng thư ký LHQ)"
+  },
+  {
+    "id": 298,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvor har FN hovedkvarter?",
+    "answer": "I New York, USA"
+  },
+  {
+    "id": 299,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er det nordiske samarbejde?",
+    "answer": "Et politisk samarbejde mellem Danmark, Sverige, Norge, Finland og Island (hợp tác chính trị giữa 5 nước Bắc Âu)"
+  },
+  {
+    "id": 300,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder det nordiske parlamentariske samarbejdsorgan?",
+    "answer": "Nordisk Råd"
+  },
+  {
+    "id": 301,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad hedder det nordiske regeringssamarbejde?",
+    "answer": "Nordisk Ministerråd"
+  },
+  {
+    "id": 302,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Kan nordiske borgere rejse frit mellem de nordiske lande uden pas?",
+    "answer": "Ja, takket være den nordiske pasunion (có, nhờ liên minh hộ chiếu Bắc Âu)"
+  },
+  {
+    "id": 303,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvilke 5 lande indgår i det nordiske samarbejde?",
+    "answer": "Danmark, Sverige, Norge, Finland og Island"
+  },
+  {
+    "id": 304,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad var Edinburgh-aftalen i 1993?",
+    "answer": "En aftale der gav Danmark fire forbehold i EU efter det danske nej til Maastricht-traktaten (thỏa thuận cho DK 4 ngoại lệ trong EU)"
+  },
+  {
+    "id": 305,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad stemte danskerne om forsvarsforbeholdet i juni 2022?",
+    "answer": "Et flertal stemte for at afskaffe forsvarsforbeholdet (đa số bỏ phiếu bỏ ngoại lệ quốc phòng)"
+  },
+  {
+    "id": 306,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvilke lande er faste medlemmer af FN's Sikkerhedsråd?",
+    "answer": "USA, Rusland, Kina, Frankrig og Storbritannien (5 nước ủy viên thường trực)"
+  },
+  {
+    "id": 307,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad betyder vetoret i FN's Sikkerhedsråd?",
+    "answer": "De 5 faste medlemmer kan blokere enhver beslutning ved at stemme imod (quyền phủ quyết của 5 nước thường trực)"
+  },
+  {
+    "id": 308,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er Den Europæiske Menneskerettighedsdomstol?",
+    "answer": "En domstol under Europarådet i Strasbourg, der behandler klager over brud på menneskerettigheder (tòa nhân quyền Châu Âu tại Strasbourg)"
+  },
+  {
+    "id": 309,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er EU's indre marked?",
+    "answer": "Et fælles marked med fri bevægelighed for varer, tjenesteydelser, kapital og personer (thị trường chung EU: tự do di chuyển hàng hóa, dịch vụ, vốn, người)"
+  },
+  {
+    "id": 310,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er Schengen-samarbejdet?",
+    "answer": "Et samarbejde om fri bevægelighed uden paskontrol ved de indre grænser i Europa (hợp tác tự do di chuyển không kiểm soát hộ chiếu nội bộ)"
+  },
+  {
+    "id": 311,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Er Danmark med i Schengen-samarbejdet?",
+    "answer": "Ja, Danmark er med i Schengen"
+  },
+  {
+    "id": 312,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er NATO's hovedkvarter, og hvor ligger det?",
+    "answer": "NATO's hovedkvarter ligger i Bruxelles, Belgien"
+  },
+  {
+    "id": 313,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad var baggrunden for NATO's oprettelse i 1949?",
+    "answer": "Frygten for Sovjetunionens ekspansion under den kolde krig (lo ngại sự bành trướng của Liên Xô trong Chiến tranh Lạnh)"
+  },
+  {
+    "id": 314,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er EU's overordnede formål?",
+    "answer": "At fremme fred, stabilitet og økonomisk samarbejde i Europa (thúc đẩy hòa bình, ổn định và hợp tác kinh tế)"
+  },
+  {
+    "id": 315,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår blev Maastricht-traktaten underskrevet?",
+    "answer": "I 1992 (ký năm 1992)"
+  },
+  {
+    "id": 316,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad betød det danske nej til Maastricht-traktaten for Danmarks EU-medlemskab?",
+    "answer": "Danmark forblev medlem, men fik fire forbehold gennem Edinburgh-aftalen i 1993 (DK vẫn là thành viên nhưng có 4 ngoại lệ)"
+  },
+  {
+    "id": 317,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er forskellen på Europa-Parlamentet og Ministerrådet?",
+    "answer": "Europa-Parlamentet er direkte valgt af borgerne; Ministerrådet består af ministre fra medlemslandenes regeringer"
+  },
+  {
+    "id": 318,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvornår afholdes valg til Europa-Parlamentet?",
+    "answer": "Hvert 5. år (mỗi 5 năm)"
+  },
+  {
+    "id": 319,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er formålet med FN's fredsbevarende styrker?",
+    "answer": "At opretholde fred og sikkerhed i konfliktområder (gìn giữ hòa bình tại vùng xung đột)"
+  },
+  {
+    "id": 320,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er FN's Verdenserklæring om Menneskerettigheder?",
+    "answer": "En erklæring fra 1948 om grundlæggende rettigheder for alle mennesker (Tuyên ngôn Nhân quyền 1948)"
+  },
+  {
+    "id": 321,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Deltager Danmark i EU's fælles valuta euroen?",
+    "answer": "Nej, Danmark har euroforbehold og bruger den danske krone (không, DK có ngoại lệ về đồng euro)"
+  },
+  {
+    "id": 322,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Nævn to internationale FN-organisationer, der har kontor i København.",
+    "answer": "UNICEF og WHO"
+  },
+  {
+    "id": 323,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er formålet med Den Europæiske Menneskerettighedskonvention?",
+    "answer": "At beskytte grundlæggende menneskerettigheder og frihedsrettigheder i Europarådets medlemslande (bảo vệ nhân quyền cơ bản)"
+  },
+  {
+    "id": 324,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er Danmarks rolle i international udviklingsbistand?",
+    "answer": "Danmark er en af verdens største bidragydere per capita og giver 0,7% af BNI gennem Danida"
+  },
+  {
+    "id": 325,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er det nordiske velfærdssamarbejde?",
+    "answer": "De nordiske lande samarbejder om social sikring, sundhed og uddannelse, så borgere kan bo og arbejde på tværs af landene"
+  },
+  {
+    "id": 326,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvilket år trådte Danmark ind i EF?",
+    "answer": "1973 (cùng med Storbritannien og Irland)"
+  },
+  {
+    "id": 327,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad var de fire danske EU-forbehold i Edinburgh-aftalen?",
+    "answer": "Euroen, forsvar, retlige anliggender og unionsborgerskab (đồng euro, quốc phòng, tư pháp, quyền công dân liên minh)"
+  },
+  {
+    "id": 328,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvilken krig i Europa førte til, at Danmark afskaffede forsvarsforbeholdet?",
+    "answer": "Ruslands invasion af Ukraine i 2022"
+  },
+  {
+    "id": 329,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvorfor er det vigtigt, at Danmark sidder i FN's Sikkerhedsråd 2025-26?",
+    "answer": "Det giver Danmark direkte indflydelse på beslutninger om international fred og sikkerhed (DK có ảnh hưởng trực tiếp đến hòa bình quốc tế)"
+  },
+  {
+    "id": 330,
+    "chapter": "omverdenen",
+    "chapterName": "Danmark og omverdenen",
+    "question": "Hvad er 0,7%-målsætningen i dansk udviklingsbistand?",
+    "answer": "Danmark afsætter mindst 0,7% af bruttonationalindkomsten til udviklingsbistand, et FN-mål som få lande opfylder"
+  },
+  {
+    "id": 331,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var H.C. Andersen?",
+    "answer": "En dansk forfatter (1805-1875), verdensberømt for sine eventyr (nhà văn Đan Mạch nổi tiếng thế giới với truyện cổ tích)"
+  },
+  {
+    "id": 332,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Nævn to kendte eventyr af H.C. Andersen.",
+    "answer": "Den Grimme Ælling og Den Lille Havfrue (Vịt con xấu xí và Nàng tiên cá)"
+  },
+  {
+    "id": 333,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvornår levede H.C. Andersen?",
+    "answer": "1805-1875"
+  },
+  {
+    "id": 334,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Søren Kierkegaard?",
+    "answer": "En dansk filosof, der regnes som grundlæggeren af eksistentialismen (triết gia Đan Mạch, cha đẻ chủ nghĩa hiện sinh)"
+  },
+  {
+    "id": 335,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er eksistentialisme?",
+    "answer": "En filosofisk retning, der fokuserer på individets frihed, valg og ansvar (triết học tập trung vào tự do, lựa chọn và trách nhiệm cá nhân)"
+  },
+  {
+    "id": 336,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem skrev 'Den afrikanske Farm'?",
+    "answer": "Karen Blixen (bút danh Isak Dinesen)"
+  },
+  {
+    "id": 337,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Karen Blixen?",
+    "answer": "En dansk forfatter (1885-1962), mest kendt for 'Den afrikanske Farm' om sit liv i Kenya"
+  },
+  {
+    "id": 338,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvilke to danske forfattere delte Nobelprisen i litteratur i 1917?",
+    "answer": "Henrik Pontoppidan og Karl Gjellerup"
+  },
+  {
+    "id": 339,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem vandt Nobelprisen i litteratur i 1944?",
+    "answer": "Johannes V. Jensen"
+  },
+  {
+    "id": 340,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Guldalderen i dansk kunst?",
+    "answer": "En periode i 1800-tallet, hvor dansk kunst blomstrede (thời kỳ hoàng kim nghệ thuật Đan Mạch thế kỷ 19)"
+  },
+  {
+    "id": 341,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var C.W. Eckersberg?",
+    "answer": "En dansk maler fra Guldalderen, kaldet 'den danske malerkunsts fader' (cha đẻ hội họa Đan Mạch)"
+  },
+  {
+    "id": 342,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Christen Købke?",
+    "answer": "En af de mest kendte danske Guldaldermaler, elev af Eckersberg"
+  },
+  {
+    "id": 343,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Bertel Thorvaldsen?",
+    "answer": "En dansk billedhugger fra Guldalderen, berømt for sine neoklassicistiske skulpturer (nhà điêu khắc tân cổ điển)"
+  },
+  {
+    "id": 344,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvor kan man se Thorvaldsens værker i København?",
+    "answer": "På Thorvaldsens Museum"
+  },
+  {
+    "id": 345,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Skagensmalerne?",
+    "answer": "En gruppe kunstnere der malede i Skagen i slutningen af 1800-tallet, bl.a. P.S. Krøyer, Anna Ancher og Michael Ancher"
+  },
+  {
+    "id": 346,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var P.S. Krøyer?",
+    "answer": "En af de mest kendte Skagensmalere, berømt for sine malerier af lys og strandscener"
+  },
+  {
+    "id": 347,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Anna Ancher?",
+    "answer": "En Skagensmalerinde, en af de første danske kvindelige kunstnere der fik international anerkendelse (nữ họa sĩ Đan Mạch tiên phong)"
+  },
+  {
+    "id": 348,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Michael Ancher?",
+    "answer": "En Skagensmalerinde, gift med Anna Ancher, kendt for sine malerier af fiskere og havet"
+  },
+  {
+    "id": 349,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Carl Nielsen?",
+    "answer": "Danmarks mest berømte komponist (1865-1931), kendt for bl.a. operaen Maskarade (nhà soạn nhạc nổi tiếng nhất Đan Mạch)"
+  },
+  {
+    "id": 350,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad hedder Carl Nielsens mest kendte opera?",
+    "answer": "Maskarade"
+  },
+  {
+    "id": 351,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Arne Jacobsen?",
+    "answer": "En dansk arkitekt og designer, kendt for SAS Royal Hotel og møbler som Ægget og Svanen (kiến trúc sư và nhà thiết kế Đan Mạch)"
+  },
+  {
+    "id": 352,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Nævn to berømte møbeldesigns af Arne Jacobsen.",
+    "answer": "Ægget og Svanen (ghế Trứng và ghế Thiên nga)"
+  },
+  {
+    "id": 353,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvilket hotel i København er designet af Arne Jacobsen?",
+    "answer": "SAS Royal Hotel (nu Radisson Collection Royal Hotel)"
+  },
+  {
+    "id": 354,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem designede Sydney Opera House?",
+    "answer": "Den danske arkitekt Jørn Utzon"
+  },
+  {
+    "id": 355,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Jørn Utzon?",
+    "answer": "En dansk arkitekt (1918-2008), verdensberømt for sit design af Sydney Opera House i Australien"
+  },
+  {
+    "id": 356,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem er Lars von Trier?",
+    "answer": "En dansk filminstruktør, en af grundlæggerne af Dogme 95-bevægelsen (đạo diễn phim Đan Mạch, đồng sáng lập Dogme 95)"
+  },
+  {
+    "id": 357,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Dogme 95?",
+    "answer": "En filmbevægelse fra 1995, grundlagt af Lars von Trier og Thomas Vinterberg, med strenge regler for naturalistisk filmproduktion"
+  },
+  {
+    "id": 358,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem instruerede filmen 'Druk', der vandt en Oscar?",
+    "answer": "Thomas Vinterberg"
+  },
+  {
+    "id": 359,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvornår vandt filmen 'Druk' en Oscar for bedste internationale film?",
+    "answer": "I 2021"
+  },
+  {
+    "id": 360,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvornår blev Nordisk Film grundlagt?",
+    "answer": "I 1906 – et af verdens ældste filmselskaber (một trong những hãng phim lâu đời nhất thế giới)"
+  },
+  {
+    "id": 361,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er dansk designs internationale ry?",
+    "answer": "Dansk design er kendt for funktionalitet, enkelhed og elegance – 'form follows function' (thiết kế Đan Mạch nổi tiếng về chức năng, đơn giản, tinh tế)"
+  },
+  {
+    "id": 362,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Det Kongelige Teater i København?",
+    "answer": "Danmarks nationale teater, grundlagt i 1748, med opera, ballet og skuespil (nhà hát quốc gia Đan Mạch)"
+  },
+  {
+    "id": 363,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Ludvig Holberg?",
+    "answer": "En norsk-dansk forfatter og dramatiker fra 1700-tallet, kaldet 'den danske Molière', grundlægger af dansk teater"
+  },
+  {
+    "id": 364,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Den Kongelige Ballet?",
+    "answer": "En af verdens ældste balletkompanier, med base i Det Kongelige Teater i København"
+  },
+  {
+    "id": 365,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var August Bournonville?",
+    "answer": "En dansk balletmester fra 1800-tallet, der skabte den danske balletstil (nghệ sĩ ballet Đan Mạch thế kỷ 19)"
+  },
+  {
+    "id": 366,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Nævn tre eventyr af H.C. Andersen udover Den Grimme Ælling og Den Lille Havfrue.",
+    "answer": "Kejserens Nye Klæder, Fyrtøjet, Snedronningen (Bộ quần áo mới của Hoàng đế, Hộp lửa, Nữ hoàng Tuyết)"
+  },
+  {
+    "id": 367,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvilket monument i København er inspireret af H.C. Andersens eventyr?",
+    "answer": "Den Lille Havfrue-statuen ved Langelinie (tượng Nàng tiên cá)"
+  },
+  {
+    "id": 368,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Georg Jensen kendt for?",
+    "answer": "Dansk sølvsmedie og designvirksomhed, verdensberømt for sølvsmykker og -bestik"
+  },
+  {
+    "id": 369,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Royal Copenhagen?",
+    "answer": "Dansk porcelænsfabrik, grundlagt 1775, kendt for det blå blomstermønster (nhà máy sứ Đan Mạch nổi tiếng)"
+  },
+  {
+    "id": 370,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Hans Wegner?",
+    "answer": "En dansk møbeldesigner, kendt for sine stole, bl.a. 'The Chair' og 'Y-stolen'"
+  },
+  {
+    "id": 371,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Roskilde Festival?",
+    "answer": "Nordeuropas største musikfestival, afholdt siden 1971 i Roskilde (lễ hội âm nhạc lớn nhất Bắc Âu)"
+  },
+  {
+    "id": 372,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Louisiana Museum for Moderne Kunst?",
+    "answer": "Et internationalt anerkendt kunstmuseum nord for København i Humlebæk"
+  },
+  {
+    "id": 373,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Vilhelm Hammershøi?",
+    "answer": "En dansk maler (1864-1916), kendt for sine stemningsfulde interiørmalerier i dæmpede farver"
+  },
+  {
+    "id": 374,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Statens Museum for Kunst (SMK)?",
+    "answer": "Danmarks nationale kunstmuseum i København med dansk og international kunst (bảo tàng nghệ thuật quốc gia)"
+  },
+  {
+    "id": 375,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem er Olafur Eliasson?",
+    "answer": "En dansk-islandsk samtidskunstner, kendt for sine store installationer med lys, vand og natur"
+  },
+  {
+    "id": 376,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Tivoli?",
+    "answer": "En forlystelsespark i København, åbnet i 1843, en af verdens ældste (công viên giải trí lâu đời nhất thế giới)"
+  },
+  {
+    "id": 377,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Herman Bang?",
+    "answer": "En dansk forfatter og journalist fra slutningen af 1800-tallet, kendt for romaner som 'Ved Vejen'"
+  },
+  {
+    "id": 378,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Henrik Pontoppidan?",
+    "answer": "En dansk forfatter, der vandt Nobelprisen i litteratur i 1917, kendt for 'Lykke-Per'"
+  },
+  {
+    "id": 379,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er kendetegnende for den danske filmbranche internationalt?",
+    "answer": "Danmark har en stærk filmtradition med mange Oscar-nomineringer og et af verdens ældste filmselskaber (Nordisk Film, 1906)"
+  },
+  {
+    "id": 380,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Carl Theodor Dreyer?",
+    "answer": "En af de mest indflydelsesrige danske filminstruktører, kendt for 'Ordet' og 'Jeanne d'Arc's lidelse og død'"
+  },
+  {
+    "id": 381,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er dansk hygge?",
+    "answer": "Et dansk kulturbegreb for hygge, samvær og trivsel i et varmt og afslappet miljø (khái niệm văn hóa về sự ấm cúng, thoải mái)"
+  },
+  {
+    "id": 382,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem er Bjarke Ingels?",
+    "answer": "En nutidsdansk arkitekt, kendt for BIG (Bjarke Ingels Group) og innovative bygninger som 8-Tallet og CopenHill"
+  },
+  {
+    "id": 383,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Aarhus Kunstmuseum (ARoS) kendt for?",
+    "answer": "Olafur Eliassons 'Your Rainbow Panorama' – en regnbuefarvet gangbro på taget"
+  },
+  {
+    "id": 384,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad kendetegner dansk arkitektur?",
+    "answer": "Funktionalisme, enkelhed, bæredygtighed og integration med naturen (chức năng, đơn giản, bền vững, hài hòa thiên nhiên)"
+  },
+  {
+    "id": 385,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Poul Henningsen (PH)?",
+    "answer": "En dansk designer og kulturpersonlighed, berømt for sine PH-lamper (nhà thiết kế đèn PH nổi tiếng)"
+  },
+  {
+    "id": 386,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er PH-lampen?",
+    "answer": "En ikonisk dansk designlampe designet af Poul Henningsen, med blændfrit lys"
+  },
+  {
+    "id": 387,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Johannes V. Jensen?",
+    "answer": "En dansk forfatter der vandt Nobelprisen i litteratur i 1944, kendt for 'Den lange Rejse' og 'Himmerlandshistorier'"
+  },
+  {
+    "id": 388,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Dogme 95-manifestets hovedregler?",
+    "answer": "Bl.a. håndholdt kamera, naturligt lys, ingen special effects, lyd optaget på stedet (quay tay, ánh sáng tự nhiên, không hiệu ứng đặc biệt)"
+  },
+  {
+    "id": 389,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem instruerede den første Dogme-film 'Festen' (1998)?",
+    "answer": "Thomas Vinterberg"
+  },
+  {
+    "id": 390,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad handlede filmen 'Druk' om?",
+    "answer": "Fire gymnasielærere der eksperimenterer med at drikke alkohol for at forbedre deres liv (4 giáo viên thử nghiệm uống rượu)"
+  },
+  {
+    "id": 391,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem spillede hovedrollen i 'Druk'?",
+    "answer": "Mads Mikkelsen"
+  },
+  {
+    "id": 392,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Kaare Klints betydning for dansk design?",
+    "answer": "Han regnes som grundlæggeren af dansk møbeldesign og underviste på Kunstakademiets Møbelskole"
+  },
+  {
+    "id": 393,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Finn Juhls bidrag til dansk design?",
+    "answer": "En dansk møbelarkitekt der bragte dansk design til USA og skabte ikoniske møbler som 'Høvdingestolen'"
+  },
+  {
+    "id": 394,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er dansk litteraturs 'Moderne Gennembrud'?",
+    "answer": "En litterær bevægelse fra 1870'erne ledet af Georg Brandes, der krævede, at litteratur skulle sætte problemer under debat"
+  },
+  {
+    "id": 395,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Georg Brandes?",
+    "answer": "En dansk litterat og kritiker, leder af Det Moderne Gennembrud i 1870'erne"
+  },
+  {
+    "id": 396,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var N.F.S. Grundtvig?",
+    "answer": "En dansk præst, forfatter og politiker, grundlægger af folkehøjskolerne og en central skikkelse i dansk kultur"
+  },
+  {
+    "id": 397,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er LEGO's kulturelle betydning for Danmark?",
+    "answer": "LEGO, opfundet i Billund i 1932, er et af verdens mest kendte danske mærker og symboliserer dansk kreativitet og leg"
+  },
+  {
+    "id": 398,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Frederiksborg Slot kendt for?",
+    "answer": "Et renæssanceslot i Hillerød, der huser Danmarks Nationalhistoriske Museum"
+  },
+  {
+    "id": 399,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Kronborg Slot?",
+    "answer": "Et slot i Helsingør, UNESCO verdensarv, kendt som Hamlets slot fra Shakespeares skuespil"
+  },
+  {
+    "id": 400,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Adam Oehlenschläger?",
+    "answer": "En dansk digter fra Guldalderen, der skrev den danske nationalsang 'Der er et yndigt land'"
+  },
+  {
+    "id": 401,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad hedder den danske nationalsang?",
+    "answer": "'Der er et yndigt land' af Adam Oehlenschläger"
+  },
+  {
+    "id": 402,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var B.S. Ingemann?",
+    "answer": "En dansk digter og forfatter fra Guldalderen, kendt for sine morgensange og historiske romaner"
+  },
+  {
+    "id": 403,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvilken Oscar-kategori vandt 'Druk' i 2021?",
+    "answer": "Bedste internationale film (phim quốc tế hay nhất)"
+  },
+  {
+    "id": 404,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Edvard Eriksen?",
+    "answer": "Den danske billedhugger, der skabte Den Lille Havfrue-statuen i København (1913)"
+  },
+  {
+    "id": 405,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Nævn et eksempel på dansk scenekunst i verdensklasse.",
+    "answer": "Den Kongelige Ballet, en af verdens ældste balletkompanier med Bournonville-traditionen"
+  },
+  {
+    "id": 406,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Bang & Olufsen?",
+    "answer": "Et dansk elektronikfirma, kendt for luksuriøse lyd- og billedprodukter med dansk design (hãng điện tử xa xỉ Đan Mạch)"
+  },
+  {
+    "id": 407,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Verner Panton?",
+    "answer": "En dansk designer, kendt for Panton Chair – den første stol formet i ét stykke plastik"
+  },
+  {
+    "id": 408,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Den Sorte Diamant?",
+    "answer": "En moderne tilbygning til Det Kongelige Bibliotek i København, bygget i sort granit og glas"
+  },
+  {
+    "id": 409,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Operaen i København?",
+    "answer": "Københavns operahus, åbnet i 2005, designet af Henning Larsen, doneret af Mærsk"
+  },
+  {
+    "id": 410,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Carl-Henning Pedersen?",
+    "answer": "En dansk maler fra CoBrA-bevægelsen, kendt for sine farverige, fantasifulde malerier"
+  },
+  {
+    "id": 411,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er CoBrA-bevægelsen?",
+    "answer": "En kunstbevægelse fra 1948 (Copenhagen, Bruxelles, Amsterdam), med bl.a. Asger Jorn og Carl-Henning Pedersen"
+  },
+  {
+    "id": 412,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Asger Jorn?",
+    "answer": "En dansk maler og billedhugger, medstifter af CoBrA-bevægelsen"
+  },
+  {
+    "id": 413,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Glyptoteket i København?",
+    "answer": "Et kunstmuseum grundlagt af Carl Jacobsen (Carlsberg), med antik og moderne kunst"
+  },
+  {
+    "id": 414,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er kendetegnende for P.S. Krøyers kunst?",
+    "answer": "Malerier af lys, strand og det sociale liv i Skagen, bl.a. 'Sommeraften ved Skagens strand'"
+  },
+  {
+    "id": 415,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Martin Andersen Nexø?",
+    "answer": "En dansk forfatter, kendt for 'Pelle Erobreren' om arbejderklassens vilkår"
+  },
+  {
+    "id": 416,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem er Peter Schaufuss?",
+    "answer": "En dansk balletdanser og koreograf, der har bragt dansk ballet til internationale scener"
+  },
+  {
+    "id": 417,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Aarhus' betydning for dansk kultur?",
+    "answer": "Danmarks næststørste by, var Europæisk Kulturhovedstad i 2017, med ARoS, Den Gamle By og universitet"
+  },
+  {
+    "id": 418,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Den Gamle By i Aarhus?",
+    "answer": "Et frilandsmuseum med historiske bygninger, der viser dansk byliv fra 1700-tallet til i dag"
+  },
+  {
+    "id": 419,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvem var Hans Christian Lumbye?",
+    "answer": "En dansk komponist (1810-1874), kendt som 'Tivolis musikdirektør' og 'Nordens Strauss'"
+  },
+  {
+    "id": 420,
+    "chapter": "kulturliv",
+    "chapterName": "Dansk kulturliv",
+    "question": "Hvad er Skagens Museum?",
+    "answer": "Et kunstmuseum i Skagen med værker af Skagensmalerne – P.S. Krøyer, Anna og Michael Ancher m.fl."
+  },
+  {
+    "id": 421,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad består Danmark geografisk af?",
+    "answer": "Halvøen Jylland og ca. 400 øer, hvoraf omkring 70 er beboede (bán đảo Jylland và khoảng 400 đảo)"
+  },
+  {
+    "id": 422,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad hedder Danmarks højeste punkt, og hvor højt er det?",
+    "answer": "Møllehøj, 170,86 meter over havet"
+  },
+  {
+    "id": 423,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad hedder Danmarks længste å?",
+    "answer": "Gudenåen, 176 km lang"
+  },
+  {
+    "id": 424,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev Storebæltsbroen åbnet?",
+    "answer": "I 1998 (kết nối Sjælland và Fyn)"
+  },
+  {
+    "id": 425,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev Øresundsbroen åbnet?",
+    "answer": "I 2000 (kết nối Danmark và Sverige)"
+  },
+  {
+    "id": 426,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad forbinder Storebæltsbroen?",
+    "answer": "Sjælland og Fyn"
+  },
+  {
+    "id": 427,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad forbinder Øresundsbroen?",
+    "answer": "Danmark (København) og Sverige (Malmø)"
+  },
+  {
+    "id": 428,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Dannebrog?",
+    "answer": "Det danske flag – verdens ældste nationalflag, der stadig er i brug (quốc kỳ Đan Mạch, lâu đời nhất thế giới)"
+  },
+  {
+    "id": 429,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår siges det, at Dannebrog faldt ned fra himlen?",
+    "answer": "Den 15. juni 1219 under slaget ved Tallinn (Lyndanisse) i Estland"
+  },
+  {
+    "id": 430,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvordan ser Dannebrog ud?",
+    "answer": "Et hvidt kors på rød baggrund (chữ thập trắng trên nền đỏ)"
+  },
+  {
+    "id": 431,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem er Danmarks nuværende regent?",
+    "answer": "Kong Frederik 10. (seit 14. januar 2024)"
+  },
+  {
+    "id": 432,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem er Danmarks dronning (gift med Frederik 10.)?",
+    "answer": "Dronning Mary"
+  },
+  {
+    "id": 433,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev Frederik 10. konge?",
+    "answer": "Den 14. januar 2024"
+  },
+  {
+    "id": 434,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var Danmarks regent før Frederik 10.?",
+    "answer": "Dronning Margrethe 2. (regerede 1972-2024)"
+  },
+  {
+    "id": 435,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvor længe regerede Margrethe 2.?",
+    "answer": "Fra 1972 til 2024 – over 50 år (hơn 50 năm)"
+  },
+  {
+    "id": 436,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Rigsfællesskabet?",
+    "answer": "Danmark, Grønland og Færøerne udgør tilsammen Rigsfællesskabet (Vương quốc Đan Mạch gồm DK + Greenland + Faroe)"
+  },
+  {
+    "id": 437,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad hedder Grønlands hovedstad?",
+    "answer": "Nuuk"
+  },
+  {
+    "id": 438,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad hedder Færøernes hovedstad?",
+    "answer": "Tórshavn"
+  },
+  {
+    "id": 439,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Har Grønland og Færøerne selvstyre?",
+    "answer": "Ja, begge har hjemmestyre/selvstyre inden for Rigsfællesskabet (có, cả hai có quyền tự trị)"
+  },
+  {
+    "id": 440,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Folkekirken?",
+    "answer": "Den danske evangelisk-lutherske kirke, som er statskirke i Danmark (nhà thờ Tin Lành Luther, quốc giáo Đan Mạch)"
+  },
+  {
+    "id": 441,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Cirka hvor stor en andel af danskerne er medlem af Folkekirken?",
+    "answer": "Ca. 73% (khoảng 73%)"
+  },
+  {
+    "id": 442,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er religionsfrihed i Danmark?",
+    "answer": "Alle har ret til at dyrke deres religion frit ifølge Grundloven (mọi người có quyền tự do tín ngưỡng theo Hiến pháp)"
+  },
+  {
+    "id": 443,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var N.F.S. Grundtvig, og hvad er hans betydning for dansk kultur?",
+    "answer": "Præst, digter og politiker – grundlagde folkehøjskolerne, som fremmer folkeoplysning og demokrati"
+  },
+  {
+    "id": 444,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er en folkehøjskole?",
+    "answer": "En skole for voksne uden eksamener, med fokus på personlig dannelse, demokrati og fællesskab (trường dân gian cho người lớn, không thi)"
+  },
+  {
+    "id": 445,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er folkeskolen i Danmark?",
+    "answer": "Den danske grundskole fra 0.-9. klasse, obligatorisk for alle børn (trường tiểu học và THCS, lớp 0-9, bắt buộc)"
+  },
+  {
+    "id": 446,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er SU?",
+    "answer": "Statens Uddannelsesstøtte – økonomisk støtte til studerende i Danmark (hỗ trợ tài chính từ nhà nước cho sinh viên)"
+  },
+  {
+    "id": 447,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår fik kvinder valgret i Danmark?",
+    "answer": "I 1915 (phụ nữ có quyền bầu cử năm 1915)"
+  },
+  {
+    "id": 448,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev loven om lige løn vedtaget i Danmark?",
+    "answer": "I 1976 (luật trả lương bình đẳng)"
+  },
+  {
+    "id": 449,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev registreret partnerskab for homoseksuelle lovligt i Danmark?",
+    "answer": "I 1989 – Danmark var det første land i verden (DK là nước đầu tiên trên thế giới)"
+  },
+  {
+    "id": 450,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev det lovligt for homoseksuelle par at blive viet i kirken i Danmark?",
+    "answer": "I 2012"
+  },
+  {
+    "id": 451,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var Niels Bohr?",
+    "answer": "En dansk fysiker, der vandt Nobelprisen i 1922 for sin atommodel (nhà vật lý Đan Mạch, Nobel 1922)"
+  },
+  {
+    "id": 452,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var H.C. Ørsted?",
+    "answer": "En dansk fysiker og kemiker, der opdagede elektromagnetismen i 1820 (phát hiện điện từ)"
+  },
+  {
+    "id": 453,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var Tycho Brahe?",
+    "answer": "En dansk astronom fra 1500-tallet, der lavede præcise observationer af stjernehimlen (nhà thiên văn Đan Mạch thế kỷ 16)"
+  },
+  {
+    "id": 454,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvem var Ole Rømer?",
+    "answer": "En dansk astronom, der som den første målte lysets hastighed i 1676 (người đầu tiên đo tốc độ ánh sáng)"
+  },
+  {
+    "id": 455,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår fejres jul i Danmark?",
+    "answer": "Den 24. december (juleaften) – Giáng sinh ngày 24/12"
+  },
+  {
+    "id": 456,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår fejres Sankt Hans?",
+    "answer": "Den 23. juni – med bål og sange (đốt lửa trại ngày 23/6)"
+  },
+  {
+    "id": 457,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår er Grundlovsdag?",
+    "answer": "Den 5. juni – fejrer den danske Grundlov (ngày Hiến pháp 5/6)"
+  },
+  {
+    "id": 458,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad var Store Bededag?",
+    "answer": "En dansk helligdag, der blev afskaffet i 2024 (ngày lễ Đan Mạch bị bỏ năm 2024)"
+  },
+  {
+    "id": 459,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår blev Store Bededag afskaffet?",
+    "answer": "I 2024 – for at finansiere øgede forsvarsudgifter (bỏ để tài trợ quốc phòng)"
+  },
+  {
+    "id": 460,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Cirka hvor mange døde der af Covid-19 i Danmark?",
+    "answer": "Ca. 10.000 døde (khoảng 10.000 người chết)"
+  },
+  {
+    "id": 461,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvor stor en andel af den danske befolkning blev vaccineret mod Covid-19?",
+    "answer": "Ca. 90% (khoảng 90%)"
+  },
+  {
+    "id": 462,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Danmarks rolle i klimapolitik?",
+    "answer": "Danmark er frontløber med mål om 70% CO2-reduktion i 2030 og klimaneutralitet i 2050 (tiên phong giảm khí thải)"
+  },
+  {
+    "id": 463,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Danmark kendt for inden for vedvarende energi?",
+    "answer": "Vindenergi – Danmark er verdensledende inden for vindmølleteknologi (năng lượng gió, DK dẫn đầu thế giới)"
+  },
+  {
+    "id": 464,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er indvandringens betydning for det danske samfund?",
+    "answer": "Indvandrere og efterkommere udgør en væsentlig del af befolkningen og bidrager til kultur, arbejdsmarked og mangfoldighed"
+  },
+  {
+    "id": 465,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er folkeskolens formål i Danmark?",
+    "answer": "At give eleverne kundskaber og færdigheder, forberede dem til videre uddannelse og fremme demokratisk dannelse"
+  },
+  {
+    "id": 466,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er en dansk gymnasium?",
+    "answer": "En treårig ungdomsuddannelse (STX, HHX, HTX) der forbereder til videregående uddannelse (trung học phổ thông 3 năm)"
+  },
+  {
+    "id": 467,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er det danske sundhedssystem?",
+    "answer": "Et offentligt, skattefinansieret sundhedssystem med gratis adgang til hospitaler og praktiserende læger (hệ thống y tế miễn phí qua thuế)"
+  },
+  {
+    "id": 468,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er en praktiserende læge i Danmark?",
+    "answer": "En familielæge, som alle borgere er tilknyttet, og som er første kontakt i sundhedssystemet (bác sĩ gia đình)"
+  },
+  {
+    "id": 469,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er ligestilling i dansk lovgivning?",
+    "answer": "Mænd og kvinder har lige rettigheder i alle aspekter af samfundslivet – arbejde, uddannelse, politik (bình đẳng giới trong mọi lĩnh vực)"
+  },
+  {
+    "id": 470,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er familiens rolle i det danske samfund?",
+    "answer": "Familien er vigtig, men individets frihed værdsættes højt. Der er mange forskellige familieformer i Danmark"
+  },
+  {
+    "id": 471,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er barselsorlov i Danmark?",
+    "answer": "Forældre har ret til barselsorlov med dagpenge – i alt 52 uger fordelt mellem forældrene (nghỉ thai sản 52 tuần)"
+  },
+  {
+    "id": 472,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er det danske velfærdssystem?",
+    "answer": "Et system baseret på høje skatter, der finansierer gratis uddannelse, sundhed og sociale ydelser til alle borgere"
+  },
+  {
+    "id": 473,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad fejrer man til fastelavn i Danmark?",
+    "answer": "Børn klæder sig ud og slår katten af tønden (trẻ em hóa trang và đập thùng gỗ)"
+  },
+  {
+    "id": 474,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er konfirmation i Danmark?",
+    "answer": "En kirkelig tradition, typisk i 7.-8. klasse, hvor unge bekræfter deres kristne tro (lễ thêm sức, thường ở lớp 7-8)"
+  },
+  {
+    "id": 475,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er en dansk flagdag?",
+    "answer": "En dag, hvor Dannebrog hejses officielt, f.eks. på dronningens fødselsdag eller Grundlovsdag"
+  },
+  {
+    "id": 476,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Grønlands selvstyreordning?",
+    "answer": "Grønland har haft selvstyre siden 2009, med ansvar for de fleste indre anliggender (tự trị từ 2009)"
+  },
+  {
+    "id": 477,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Færøernes hjemmestyreordning?",
+    "answer": "Færøerne har haft hjemmestyre siden 1948 (tự trị từ 1948)"
+  },
+  {
+    "id": 478,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Er Grønland og Færøerne med i EU?",
+    "answer": "Nej, hverken Grønland eller Færøerne er med i EU (không, cả hai không thuộc EU)"
+  },
+  {
+    "id": 479,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Niels Bohrs atommodel?",
+    "answer": "En model fra 1913, der beskriver elektroner i baner rundt om atomkernen – revolutionerede fysikken (mô hình nguyên tử Bohr)"
+  },
+  {
+    "id": 480,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad opdagede H.C. Ørsted?",
+    "answer": "Sammenhængen mellem elektricitet og magnetisme (elektromagnetisme) i 1820"
+  },
+  {
+    "id": 481,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvordan målte Ole Rømer lysets hastighed?",
+    "answer": "Ved at observere forsinkelser i Jupiters måne Ios formørkelser i 1676"
+  },
+  {
+    "id": 482,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Jelling-monumenterne?",
+    "answer": "Runesten og gravhøje fra vikingetiden i Jelling, UNESCO verdensarv – kaldet 'Danmarks dåbsattest'"
+  },
+  {
+    "id": 483,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Roskilde Domkirke?",
+    "answer": "En domkirke i Roskilde, UNESCO verdensarv, gravkirke for danske konger og dronninger siden middelalderen"
+  },
+  {
+    "id": 484,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Vadehavet?",
+    "answer": "Et tidevandsområde ved den jyske vestkyst, UNESCO verdensarv, vigtigt for fugle og natur"
+  },
+  {
+    "id": 485,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Den Lille Havfrue-statuen?",
+    "answer": "En bronzestatue ved Langelinie i København fra 1913, inspireret af H.C. Andersens eventyr (tượng Nàng tiên cá)"
+  },
+  {
+    "id": 486,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Christiansborg Slot?",
+    "answer": "Sæde for Folketinget, Statsministeriet og Højesteret i København (trụ sở Quốc hội, Thủ tướng, Tòa án Tối cao)"
+  },
+  {
+    "id": 487,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Amalienborg?",
+    "answer": "Den danske kongefamilies residens i København (dinh thự hoàng gia)"
+  },
+  {
+    "id": 488,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Legoland?",
+    "answer": "En forlystelsespark i Billund bygget med LEGO-klodser, åbnet i 1968"
+  },
+  {
+    "id": 489,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Skagen?",
+    "answer": "Danmarks nordligste punkt, hvor Skagerrak og Kattegat mødes – kendt for Skagensmalerne og lyset"
+  },
+  {
+    "id": 490,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er reformationen, og hvornår kom den til Danmark?",
+    "answer": "I 1536 blev Danmark protestantisk (luthersk) under Christian 3. (Đan Mạch theo đạo Tin Lành năm 1536)"
+  },
+  {
+    "id": 491,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er kirkeskatten i Danmark?",
+    "answer": "En skat, som medlemmer af Folkekirken betaler for at finansiere kirken (thuế nhà thờ cho thành viên Folkekirken)"
+  },
+  {
+    "id": 492,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er en dansk vuggestue og børnehave?",
+    "answer": "Vuggestue er for 0-2 årige, børnehave for 3-5 årige – de fleste danske børn går i daginstitution (nhà trẻ và mẫu giáo)"
+  },
+  {
+    "id": 493,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er undervisningspligten i Danmark?",
+    "answer": "Der er undervisningspligt (ikke skolepligt) for alle børn fra 6-16 år – man kan også undervises hjemme (bắt buộc học, không bắt buộc đến trường)"
+  },
+  {
+    "id": 494,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er friskoler i Danmark?",
+    "answer": "Private grundskoler, der modtager statstilskud – forældrene betaler en del selv (trường tư có hỗ trợ nhà nước)"
+  },
+  {
+    "id": 495,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er den danske model på arbejdsmarkedet?",
+    "answer": "Et system hvor løn- og arbejdsvilkår aftales mellem arbejdsgivere og fagforeninger (uden lovgivning) – thương lượng giữa giới chủ và công đoàn"
+  },
+  {
+    "id": 496,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvornår fejres påske i Danmark?",
+    "answer": "I marts eller april – en kristen højtid med skærtorsdag, langfredag og påskedag (lễ Phục Sinh)"
+  },
+  {
+    "id": 497,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er pinse?",
+    "answer": "En kristen højtid 7 uger efter påske – pinsesøndag og 2. pinsedag (lễ Hiện xuống, 7 tuần sau Phục Sinh)"
+  },
+  {
+    "id": 498,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er den danske integrationslov?",
+    "answer": "Lovgivning der sikrer, at nye borgere i Danmark får tilbudt danskundervisning, introduktionsprogram og hjælp til at komme i arbejde"
+  },
+  {
+    "id": 499,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Danmarks klimamål for 2030?",
+    "answer": "At reducere drivhusgasudledningerne med 70% i forhold til 1990-niveauet (giảm 70% khí thải so với 1990)"
+  },
+  {
+    "id": 500,
+    "chapter": "temaopslag",
+    "chapterName": "Temaopslag",
+    "question": "Hvad er Vestas?",
+    "answer": "En dansk virksomhed, en af verdens største producenter af vindmøller – symbol på Danmarks grønne energi (hãng turbine gió lớn nhất thế giới)"
+  }
+]
