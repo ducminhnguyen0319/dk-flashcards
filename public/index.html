@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Indfødsretsprøven Flashcards</title>
+<title>Indfødsretsprøven - Quiz & Flashcards</title>
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇩🇰</text></svg>">
 </head>
@@ -11,61 +11,115 @@
 
 <header>
   <h1>Indfødsretsprøven</h1>
-  <p class="tagline">Flashcards til statsborgerskabsprøven</p>
+  <p class="tagline">1000 spørgsmål til statsborgerskabsprøven</p>
 </header>
 
 <main>
-  <div class="controls">
-    <select id="chapterFilter">
-      <option value="all">Alle kapitler</option>
-    </select>
-    <button id="shuffleBtn" class="btn-secondary" title="Bland kortene">Bland</button>
-    <button id="resetBtn" class="btn-secondary" title="Nulstil fremskridt">Nulstil</button>
+  <!-- MODE SELECT -->
+  <div id="modeSelect" class="mode-select">
+    <button class="mode-card" id="startPractice">
+      <div class="mode-icon">📚</div>
+      <div class="mode-title">Øvelse</div>
+      <div class="mode-desc">Øv dig i dit eget tempo. Vælg kapitel og se forklaringer.</div>
+    </button>
+    <button class="mode-card" id="startExam">
+      <div class="mode-icon">📝</div>
+      <div class="mode-title">Prøve</div>
+      <div class="mode-desc">40 spørgsmål, 45 minutter. Bestå med 32 rigtige (80%).</div>
+    </button>
   </div>
 
-  <div class="score-bar">
-    <div class="score-stats">
-      <span class="correct-count">0</span> rigtige &middot;
-      <span class="wrong-count">0</span> forkerte &middot;
-      <span class="remaining-count">0</span> tilbage
+  <!-- PRACTICE MODE -->
+  <div id="practiceMode" style="display:none">
+    <div class="controls">
+      <select id="chapterFilter">
+        <option value="all">Alle kapitler</option>
+      </select>
+      <button class="btn-secondary" id="shuffleBtn">Bland</button>
+      <button class="btn-secondary" id="backToMenu">← Menu</button>
     </div>
-    <div class="progress-track">
-      <div class="progress-fill" id="progressFill"></div>
-    </div>
-  </div>
 
-  <div class="card-container" id="cardContainer">
-    <div class="flashcard" id="flashcard">
-      <div class="card-front">
-        <div class="card-chapter" id="cardChapter"></div>
-        <div class="card-question" id="cardQuestion"></div>
-        <button class="btn-reveal" id="revealBtn">Vis svar</button>
+    <div class="score-bar">
+      <div class="score-stats">
+        <span class="correct-count">0</span> rigtige ·
+        <span class="wrong-count">0</span> forkerte ·
+        <span class="remaining-count">0</span> tilbage
       </div>
-      <div class="card-back">
-        <div class="card-chapter" id="cardChapterBack"></div>
-        <div class="card-answer" id="cardAnswer"></div>
-        <div class="card-actions">
-          <button class="btn-wrong" id="wrongBtn">Forkert</button>
-          <button class="btn-correct" id="correctBtn">Rigtigt</button>
-        </div>
+      <div class="progress-track">
+        <div class="progress-fill" id="progressFill"></div>
       </div>
+    </div>
+
+    <div id="questionCard" class="question-card">
+      <div class="card-chapter" id="cardChapter"></div>
+      <div class="card-question" id="cardQuestion"></div>
+      <div class="options" id="optionsContainer"></div>
+      <div class="explanation" id="explanation" style="display:none"></div>
+      <button class="btn-next" id="nextBtn" style="display:none">Næste spørgsmål →</button>
+    </div>
+
+    <div class="card-counter" id="cardCounter">0 / 0</div>
+
+    <div class="done-screen" id="doneScreen" style="display:none">
+      <div class="done-icon">🎉</div>
+      <h2>Færdig!</h2>
+      <p id="doneMessage"></p>
+      <button class="btn-primary" id="restartBtn">Start forfra</button>
+      <button class="btn-secondary" id="reviewWrongBtn">Gennemgå forkerte</button>
     </div>
   </div>
 
-  <div class="card-counter" id="cardCounter">0 / 0</div>
+  <!-- EXAM MODE -->
+  <div id="examMode" style="display:none">
+    <div class="exam-header">
+      <div class="exam-timer" id="examTimer">45:00</div>
+      <div class="exam-progress">
+        Spørgsmål <span id="examCurrent">1</span> / 40
+      </div>
+      <button class="btn-secondary btn-sm" id="endExam">Afslut prøve</button>
+    </div>
 
-  <div class="done-screen" id="doneScreen" style="display:none">
-    <div class="done-icon">🎉</div>
-    <h2>Færdig!</h2>
-    <p id="doneMessage"></p>
-    <button class="btn-primary" id="restartBtn">Start forfra</button>
-    <button class="btn-secondary" id="reviewWrongBtn">Gennemgå forkerte</button>
+    <div id="examCard" class="question-card">
+      <div class="card-chapter" id="examChapter"></div>
+      <div class="card-question" id="examQuestion"></div>
+      <div class="options" id="examOptions"></div>
+    </div>
+
+    <div class="exam-nav">
+      <button class="btn-secondary" id="examPrev" disabled>← Forrige</button>
+      <button class="btn-primary" id="examNext">Næste →</button>
+      <button class="btn-primary btn-submit" id="examSubmit" style="display:none">Aflever prøve</button>
+    </div>
+
+    <div class="exam-dots" id="examDots"></div>
   </div>
 
-  <div class="keyboard-hints">
-    <span>Mellemrum = vis svar</span>
-    <span>← forkert</span>
-    <span>→ rigtigt</span>
+  <!-- EXAM RESULT -->
+  <div id="examResult" style="display:none">
+    <div class="result-card">
+      <div class="result-icon" id="resultIcon"></div>
+      <h2 id="resultTitle"></h2>
+      <div class="result-score" id="resultScore"></div>
+      <p id="resultMessage"></p>
+      <div class="result-breakdown" id="resultBreakdown"></div>
+      <button class="btn-primary" id="reviewExam">Gennemgå svar</button>
+      <button class="btn-secondary" id="newExam">Ny prøve</button>
+      <button class="btn-secondary" id="backToMenuFromExam">← Menu</button>
+    </div>
+  </div>
+
+  <!-- EXAM REVIEW -->
+  <div id="examReview" style="display:none">
+    <div class="review-header">
+      <h2>Gennemgang af prøve</h2>
+      <button class="btn-secondary" id="backToResult">← Tilbage til resultat</button>
+    </div>
+    <div id="reviewList"></div>
+  </div>
+
+  <div class="keyboard-hints" id="keyboardHints">
+    <span>1-4 = vælg svar</span>
+    <span>Enter/→ = næste</span>
   </div>
 </main>
 
