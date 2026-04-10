@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indfødsretsprøven Flashcards</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇩🇰</text></svg>">
+</head>
+<body>
+
+<header>
+  <h1>Indfødsretsprøven</h1>
+  <p class="tagline">Flashcards til statsborgerskabsprøven</p>
+</header>
+
+<main>
+  <div class="controls">
+    <select id="chapterFilter">
+      <option value="all">Alle kapitler</option>
+    </select>
+    <button id="shuffleBtn" class="btn-secondary" title="Bland kortene">Bland</button>
+    <button id="resetBtn" class="btn-secondary" title="Nulstil fremskridt">Nulstil</button>
+  </div>
+
+  <div class="score-bar">
+    <div class="score-stats">
+      <span class="correct-count">0</span> rigtige &middot;
+      <span class="wrong-count">0</span> forkerte &middot;
+      <span class="remaining-count">0</span> tilbage
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+  </div>
+
+  <div class="card-container" id="cardContainer">
+    <div class="flashcard" id="flashcard">
+      <div class="card-front">
+        <div class="card-chapter" id="cardChapter"></div>
+        <div class="card-question" id="cardQuestion"></div>
+        <button class="btn-reveal" id="revealBtn">Vis svar</button>
+      </div>
+      <div class="card-back">
+        <div class="card-chapter" id="cardChapterBack"></div>
+        <div class="card-answer" id="cardAnswer"></div>
+        <div class="card-actions">
+          <button class="btn-wrong" id="wrongBtn">Forkert</button>
+          <button class="btn-correct" id="correctBtn">Rigtigt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-counter" id="cardCounter">0 / 0</div>
+
+  <div class="done-screen" id="doneScreen" style="display:none">
+    <div class="done-icon">🎉</div>
+    <h2>Færdig!</h2>
+    <p id="doneMessage"></p>
+    <button class="btn-primary" id="restartBtn">Start forfra</button>
+    <button class="btn-secondary" id="reviewWrongBtn">Gennemgå forkerte</button>
+  </div>
+
+  <div class="keyboard-hints">
+    <span>Mellemrum = vis svar</span>
+    <span>← forkert</span>
+    <span>→ rigtigt</span>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "dk-flashcards",
+  "version": "1.0.0",
+  "description": "Flashcard app for Danish citizenship test (indfødsretsprøven)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
